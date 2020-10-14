@@ -7,11 +7,17 @@
 % simulation random values will be asigned to these variables.
 
 %% Constants definition
-la = 0.5; rho = rand(); be = rand(); bs = rand(); ba = rand();
+la = 1000; rho = rand(); be = rand(); bs = rand(); ba = rand();
 p2 = rand();  p1 = rand(); mu = rand(); sigma = rand(); gamma = rand();
 alpha = rand(); 
 
 %% Manual solution
+e = 100;
+s = 1/mu * (rho*e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1)) - (sigma + mu)*e - p1*(sigma+ mu)*e/(1-p1) + la);
+q = (sigma + mu)*p1*e/(sigma + mu + gamma*p2)/(1-p1);
+i = (1 + (sigma + mu)*(1 - p2)*p1/(sigma + mu + gamma*p2)/(1 - p1))*e*sigma/(mu + alpha*(1 - p2) + gamma); 
+r = e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1));
+
 
 
 %% Numerical solution
@@ -41,7 +47,7 @@ system_a(4, 5) = -(mu + rho);
 system_a(5, 2) = 1;
 
 % system
-system_b = [0, -la, 0, 0, 0.5]';
+system_b = [0, -la, 0, 0, 100]';
 
 % solution
 solution = linsolve(system_a, system_b);
