@@ -13,10 +13,20 @@ alpha = rand();
 
 %% Manual solution
 e = 100;
-s = 1/mu * (rho*e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1)) - (sigma + mu)*e/(1-p1)  + la);
+
+s = 1/mu * (rho*e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)* ...
+    (1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + ... 
+    (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1)) - ...
+    (sigma + mu)*e/(1-p1)  + la);
+
 q = (sigma + mu)*p1*e/(sigma + mu + gamma*p2)/(1-p1);
-i = (1 + (sigma + mu)*(1 - p2)*p1/(sigma + mu + gamma*p2)/(1 - p1))*e*sigma/(mu + alpha*(1 - p2) + gamma); 
-r = e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1));
+
+i = (1 + (sigma + mu)*(1 - p2)*p1/(sigma + mu + gamma*p2)/(1 - p1))* ...
+    e*sigma/(mu + alpha*(1 - p2) + gamma); 
+
+r = e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)* ...
+    p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)* ...
+    (sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1));
 
 
 %% Numerical solution
@@ -46,10 +56,20 @@ system_a(4, 5) = -(mu + rho);
 system_a(5, 2) = 1;
 
 % system
-system_b = [0, -la, 0, 0, 100]';
+system_b = [0, -la, 0, 0, e]';
 
 % solution
 solution = linsolve(system_a, system_b);
+
+
+%% Verification
+eps = 1.0e-3;
+solution2 = [s, e, q, i, r];
+v = 1;
+
+for i = 1:length(solution)
+    v = v * solution(i) - eps < solution2(i) < solution(i) +eps;
+end
 
 
 
