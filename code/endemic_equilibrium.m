@@ -13,11 +13,10 @@ alpha = rand();
 
 %% Manual solution
 e = 100;
-s = 1/mu * (rho*e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1)) - (sigma + mu)*e - p1*(sigma+ mu)*e/(1-p1) + la);
+s = 1/mu * (rho*e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1)) - (sigma + mu)*e/(1-p1)  + la);
 q = (sigma + mu)*p1*e/(sigma + mu + gamma*p2)/(1-p1);
 i = (1 + (sigma + mu)*(1 - p2)*p1/(sigma + mu + gamma*p2)/(1 - p1))*e*sigma/(mu + alpha*(1 - p2) + gamma); 
 r = e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1));
-
 
 
 %% Numerical solution
