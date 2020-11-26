@@ -34,22 +34,22 @@ r = ((gamma - p3 * delta)*(sigma + p1 * p3 * delta * (sigma + mu) / (1 - p1) / .
 %% Numerical solution
 system_a = zeros (5, 5);
 
-% first array, done
+% first array
 system_a(1, 3) = (mu + (1 - p2) * alpha + p3 * delta)*(1-p1);
 system_a(1, 2) = -(sigma + mu)*p1;
 
-% second array, done
+% second array
 system_a(2, 1) = -mu;
 system_a(2, 2) = -(sigma + mu);
 system_a(2, 3) = -(mu + (1 - p2) * alpha + p3 * delta);
 system_a(2, 5) =  rho;
 
-% third array, done
+% third array
 system_a(3, 2) = sigma;
 system_a(3, 3) = delta * p3;
 system_a(3, 4) = -(mu + alpha*(1 - p2) + gamma - p3 * delta);
 
-% fourth array, done
+% fourth array
 system_a(4, 3) = delta * (1 - p3);
 system_a(4, 4) = (gamma - p3 * delta);
 system_a(4, 5) = -(mu + rho);
