@@ -43,6 +43,12 @@ r = data(:, 3); dp = data(:, 4);
 % intervals where it is assumed that p1 and k are constant
 t_cb = [1 21;25 48;50 63;63 90;91 106;106 116;116 130;132 150;156 174;174 188;188 196];
 
+% display obtained delays
+display(tau1); display(tau2); display(tau3)
+
+% plot estimated number of people in quaratine
+plot(date_cb(ts:ts+length(Q)-1), Q)
+
 
 %% Create figures and fit
 % Q vs. r
