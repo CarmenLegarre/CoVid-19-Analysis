@@ -1,0 +1,224 @@
+"fecha";"casos_confirmados";"ingresos_hospitalarios";"ingresos_uci";"fallecimientos";"casos_personal_sanitario";"altas";"camas_planta_ocupadas";"camas_uci_ocupadas";"incremento_casos_confirmados_diario";"observaciones";"positivo_pruebas_pcr";"positivo_test_rapidos";"pruebas_pcr_realizadas";"test_rapidos_realizados";"pruebas_ultima_semana";"tpc_positividad_pruebas"
+2020-03-04;1;;;;;;;;1;"Fuente Aragón Hoy";;;;;;
+2020-03-06;9;;;;;;;;8;"Fuente Aragón Hoy";;;;;;
+2020-03-07;14;;;;;;;;5;"Fuente Aragón Hoy";;;;;;
+2020-03-08;21;;;2;;;;;7;"Fuente Aragón Hoy";;;;;;
+2020-03-09;32;;;3;;;;;11;"Fuente Aragón Hoy";;;;;;
+2020-03-10;38;;;3;;;;;6;"Fuente Aragón Hoy";;;;;;
+2020-03-11;49;;;6;;;;;11;"Fuente Aragón Hoy";;;;;;
+2020-03-12;64;;;6;;;;;15;"Fuente Aragón Hoy";;;;;;
+2020-03-14;121;42;5;7;5;;;;57;"Fuente Aragón Hoy";;;;;;
+2020-03-15;147;59;5;7;12;;;;26;"Fuente Aragón Hoy";;;;;;
+2020-03-16;174;64;7;11;12;;;;27;"Fuente Aragón Hoy";;;;;;
+2020-03-17;207;74;9;12;12;;;;33;"Fuente Aragón Hoy";;;;;;
+2020-03-18;226;81;9;13;12;;;;19;"Fuente Aragón Hoy";;;;;;
+2020-03-19;281;101;14;15;25;;;;55;"Fuente Aragón Hoy";;;;;;
+2020-03-20;360;127;28;17;37;;;;79;"Fuente Aragón Hoy";;;;;;
+2020-03-21;424;192;33;22;48;;;;64;"Fuente Aragón Hoy";;;;;;
+2020-03-22;532;241;45;24;58;3;;;108;"Fuente Aragón Hoy";;;;;;
+2020-03-23;638;298;52;32;74;3;;;106;"Fuente Aragón Hoy";;;;;;
+2020-03-24;758;384;66;37;80;3;;;120;"Fuente Aragón Hoy";;;;;;
+2020-03-25;907;459;75;40;119;29;;;149;"Fuente Aragón Hoy";;;;;;
+2020-03-26;1116;562;93;48;155;54;;;209;"Fuente Aragón Hoy";;;;;;
+2020-03-27;1338;693;114;58;170;87;;;222;"Fuente Aragón Hoy";;;;;;
+2020-03-28;1592;835;124;93;210;120;;;254;"Fuente Aragón Hoy";;;;;;
+2020-03-29;1858;935;153;104;267;125;701;129;266;"Fuente Aragón Hoy";;;;;;
+2020-03-30;2078;1094;156;106;271;174;759;134;220;"Fuente Aragón Hoy";;;;;;
+2020-03-31;2272;1176;165;138;310;204;841;147;194;"Fuente Aragón Hoy";;;;;;
+2020-04-01;2491;1234;168;169;452;257;918;147;219;"Fuente Aragón Hoy";;;;;;
+2020-04-02;2700;1320;178;200;481;320;909;157;209;"Fuente Aragón Hoy";;;;;;
+2020-04-03;2899;1431;180;224;523;378;943;163;199;"Fuente Aragón Hoy";;;;;;
+2020-04-04;3078;1505;190;251;543;440;947;165;179;"Fuente Aragón Hoy";;;;;;
+2020-04-05;3232;1588;233;270;564;537;896;166;154;"Fuente Aragón Hoy";;;;;;
+2020-04-06;3347;1637;237;284;578;565;895;167;115;"Fuente Aragón Hoy";;;;;;
+2020-04-07;3449;1663;247;312;584;578;904;165;102;"Fuente Aragón Hoy";;;;;;
+2020-04-08;3549;1716;255;349;605;659;867;164;100;"Fuente Aragón Hoy";;;;;;
+2020-04-09;3685;1765;261;385;626;718;816;163;136;"Fuente Aragón Hoy";;;;;;
+2020-04-10;3831;1822;263;409;638;797;776;157;146;"Fuente Aragón Hoy";;;;;;
+2020-04-11;3969;1860;266;425;651;888;712;158;138;"Fuente Aragón Hoy";;;;;;
+2020-04-12;4070;1901;272;450;661;934;666;153;101;"Fuente Aragón Hoy";;;;;;
+2020-04-13;4187;1938;274;464;666;948;664;154;117;"Fuente Aragón Hoy";;;;;;
+2020-04-14;4245;1966;280;492;668;963;690;146;58;"Fuente Aragón Hoy";;;;;;
+2020-04-15;4338;2006;282;514;689;1012;660;138;93;"Fuente Aragón Hoy";;;;;;
+2020-04-16;4566;2037;286;543;700;1073;764;131;228;"Fuente Aragón Hoy";4411;155;;979;;
+2020-04-17;4664;2151;240;562;731;1132;620;131;98;"Fuente Aragón Hoy";4489;175;;1213;;
+2020-04-18;4761;2180;243;601;738;1121;583;124;97;"Fuente Aragón Hoy";;;16665;1608;;
+2020-04-19;4831;2216;246;619;754;1175;548;121;70;"Fuente Aragón Hoy";;;;;;
+2020-04-20;4886;2244;248;637;755;1178;551;118;55;"Fuente Aragón Hoy";;;17400;1822;;
+2020-04-21;4938;2271;250;643;756;1182;573;119;52;"Fuente Aragón Hoy";;;17778;2102;;
+2020-04-22;5054;2304;252;656;766;1215;547;113;116;"Fuente Aragón Hoy";;;18351;2510;;
+2020-04-23;5237;2340;253;681;774;1680;516;103;183;"Fuente Aragón Hoy";;;18901;3054;;
+2020-04-24;5295;2359;254;695;784;1781;494;100;58;"Fuente Aragón Hoy";;;19123;3188;;
+2020-04-25;5382;2372;255;709;786;1929;499;93;87;"Fuente Aragón Hoy";;;19624;3560;;
+2020-04-26;5456;2395;257;712;789;1960;448;89;74;"Fuente Aragón Hoy";;;19920;3927;;
+2020-04-27;5504;2403;257;726;793;2010;459;89;48;"Fuente Aragón Hoy";4985;519;20302;4057;;
+2020-04-28;5557;2425;258;735;796;2081;450;86;53;"Fuente Aragón Hoy";5004;553;20699;4353;;
+2020-04-29;5652;2454;258;736;798;2189;436;83;95;"Fuente Aragón Hoy";5042;610;21179;4824;;
+2020-04-30;5971;2477;258;739;800;2291;406;74;319;"Fuente Aragón Hoy";5091;880;21699;6035;;
+2020-05-01;6103;2494;260;749;803;2382;359;67;132;"Fuente Aragón Hoy";5116;987;22399;6815;;
+2020-05-02;6164;2503;260;761;807;2474;327;66;61;"Fuente Aragón Hoy";5136;1028;22818;7095;;
+2020-05-03;6208;2519;260;761;807;2558;327;66;44;"Fuente Aragón Hoy";5164;1044;23174;7241;;
+2020-05-04;6239;2526;260;762;808;2624;322;59;31;"Fuente Aragón Hoy";5188;1051;25524;7330;;
+2020-05-05;6282;2539;260;770;809;2704;327;58;43;"Fuente Aragón Hoy";5207;1075;25997;7834;;
+2020-05-06;6382;2552;260;788;830;2790;303;53;100;"Fuente Aragón Hoy";5231;1151;26712;8616;;
+2020-05-07;6516;2564;262;800;847;2880;294;46;134;"Fuente Aragón Hoy";5258;1258;27877;9660;;
+2020-05-08;6575;2578;263;815;854;2953;268;44;59;"Fuente Aragón Hoy";5274;1301;28392;10379;;
+2020-05-09;6656;2583;263;823;866;3006;249;39;81;"Fuente Aragón Hoy";5291;1365;29251;11854;;
+2020-05-10;6702;2588;263;824;876;3076;216;39;46;"Fuente Aragón Hoy";5316;1386;30290;12611;;
+2020-05-11;6731;2595;263;825;879;3116;225;37;29;"Fuente Aragón Hoy";5336;1395;30877;13183;;
+2020-05-12;6797;2606;264;828;885;3186;220;34;66;"Fuente Aragón Hoy";5359;1438;31479;14224;;
+2020-05-13;6856;2614;265;829;892;3312;210;28;59;"Fuente Aragón Hoy";5372;1484;32690;16070;;
+2020-05-14;6943;2625;265;836;904;3471;189;32;87;"Fuente Aragón Hoy";5389;1554;33723;17904;;
+2020-05-15;7015;2637;266;837;913;3534;178;30;72;"Fuente Aragón Hoy";5432;1583;35338;19091;;
+2020-05-16;7125;2648;266;838;929;3655;184;31;110;"Fuente Aragón Hoy";5456;1669;37211;20690;;
+2020-05-17;7177;2655;266;838;930;3727;161;25;52;"Fuente Aragón Hoy";5478;1699;38060;23222;;
+2020-05-18;7201;2659;267;838;931;3772;170;24;24;"Fuente Aragón Hoy";;;;;;
+2020-05-19;5520;2667;267;843;821;3343;162;25;17;"Fuente Aragón Hoy. Casos confirmados a través de PCR y ELISA IgM. Incremento con respecto ayer por este método.";;;;;;
+2020-05-20;5551;2577;263;847;826;3563;144;19;31;"Fuente Aragón Hoy. Casos confirmados a través de PCR y ELISA IgM. Datos que se corresponden con un periodo de 34 horas. Depuración datos de ingresos";;;;;;
+2020-05-21;5588;2442;256;848;827;3618;124;16;37;"Fuente Aragón Hoy. Casos confirmados a través de PCR y ELISA IgM. Se extraen de los datos acumulados de hospitalización y de ingresos en UCI los casos que habían dado positivo mediante tests rápidos";;;;;;
+2020-05-22;5618;2447;256;858;829;3639;119;13;30;"Fuente Aragón Hoy";;;;;;
+2020-05-23;5627;2451;257;858;829;3660;116;12;9;"Fuente Aragón Hoy";;;;;;
+2020-05-24;5646;2452;257;858;829;3677;100;11;19;"Fuente Aragón Hoy";;;;;;
+2020-05-25;5650;2454;257;859;834;3722;107;11;4;"Fuente Aragón Hoy";;;;;;
+2020-05-26;5672;2459;257;859;834;3762;103;11;22;"Fuente Aragón Hoy";;;;;;
+2020-05-27;5687;2459;256;860;829;3814;98;9;15;"Fuente Aragón Hoy";;;48014;;;
+2020-05-28;5705;2462;256;863;830;3847;85;8;18;"Fuente Aragón Hoy";;;49254;;;
+2020-05-29;5722;2469;257;863;831;3893;78;8;17;"Fuente Aragón Hoy";;;50293;;;
+2020-05-30;5731;2473;257;863;832;3939;76;8;9;"Fuente Aragón Hoy";;;51528;;;
+2020-05-31;5743;2475;257;863;832;3946;68;8;12;"Fuente Aragón Hoy";;;52091;;;
+2020-06-01;5748;2477;257;863;832;3972;66;8;5;"Fuente Aragón Hoy";;;52378;;;
+2020-06-02;5756;2479;259;870;833;4013;66;9;8;"Fuente Aragón Hoy";;;53664;;;
+2020-06-03;5776;2479;259;870;833;4013;75;6;20;"Fuente Aragón Hoy. Datos de ingresos y altas no actualizados ";;;;;;
+2020-06-04;5779;2482;261;893;826;4092;70;6;3;"Fuente Aragón Hoy";;;55754;;;
+2020-06-05;5802;2486;261;;827;4115;61;6;23;"Fuente Aragón Hoy";;;57102;;;
+2020-06-06;5814;2490;261;;829;4139;67;6;12;"Fuente Aragón Hoy";;;58308;;;
+2020-06-07;5825;2491;262;;830;4150;53;6;11;"Fuente Aragón Hoy";;;58855;;;
+2020-06-08;5829;2493;262;;830;4177;59;7;4;"Fuente Aragón Hoy";;;58983;;;
+2020-06-09;5835;2498;262;;833;4230;59;6;6;"Fuente Aragón Hoy";;;60102;;;
+2020-06-10;5851;2502;262;;833;4266;53;5;16;"Fuente Aragón Hoy";;;61131;;;
+2020-06-11;5859;2503;262;901;836;4290;44;5;8;"Fuente Aragón Hoy";;;62178;;;
+2020-06-12;5867;2508;262;;839;4314;37;3;8;"Fuente Aragón Hoy";;;63034;;;
+2020-06-13;5869;2507;262;;842;4329;34;3;2;"Fuente Aragón Hoy";;;64370;;;
+2020-06-14;5873;2507;262;;842;4337;32;5;4;"Fuente Aragón Hoy";;;64644;;;
+2020-06-15;5876;2510;262;;842;4361;34;4;3;"Fuente Aragón Hoy";;;64898;;;
+2020-06-16;5880;2514;262;;842;4380;40;3;4;"Fuente Aragón Hoy";;;65920;;;
+2020-06-17;5886;2517;262;;843;4397;42;3;6;"Fuente Aragón Hoy";;;66897;;;
+2020-06-18;5901;2523;262;905;847;4433;42;3;5;"Fuente Aragón Hoy. Detectados de ayer 5 nuevos casos de coronavirus y Se han incluido en la contabilización de casos totales otros 10 casos detectados por la actualización del sistema.";;;67827;;;
+2020-06-19;5926;2528;262;;849;4449;37;3;25;"Fuente Aragón Hoy";;;68832;;;
+2020-06-20;5944;2529;263;;853;4462;33;4;18;"Fuente Aragón Hoy";;;68832;;;
+2020-06-21;5977;2530;263;;854;4469;28;3;33;"Fuente Aragón Hoy";;;70941;;;
+2020-06-22;6010;2533;263;;854;4477;38;3;33;"Fuente Aragón Hoy";;;;;;
+2020-06-23;6056;2540;263;;854;4495;36;3;47;"Fuente Aragón Hoy";;;72076;;;
+2020-06-24;6105;2543;263;;854;4517;42;3;49;"Fuente Aragón Hoy";;;73049;;;
+2020-06-25;6158;2546;263;914;854;4542;40;3;53;"Fuente Aragón Hoy";;;74174;;;
+2020-06-26;6233;2552;263;;857;4563;41;4;75;"Fuente Aragón Hoy";;;;;;
+2020-06-27;6264;2554;263;;859;4574;48;3;31;"Fuente Aragón Hoy";;;;;;
+2020-06-28;6312;2556;263;;859;4574;39;3;48;"Fuente Aragón Hoy. Altas sin actualizar";;;;;;
+2020-06-29;6327;2562;263;;859;4588;;;15;"Fuente Aragón Hoy";;;;;;
+2020-06-30;6339;2567;263;;859;4600;43;3;12;"Fuente Aragón Hoy";;;;;;
+2020-07-01;6361;2570;263;;860;4620;44;4;22;"Fuente Aragón Hoy";;;80408;;;
+2020-07-02;6388;2575;263;919;860;4632;39;3;27;"Fuente Aragón Hoy";;;;;;
+2020-07-09;6602;2591;267;923;870;4745;23;4;214;"Fuente Aragón Hoy";;;;;;
+2020-07-16;7419;2654;271;925;891;5041;65;6;817;"Fuente Aragón Hoy";;;;;;
+2020-07-22;9079;2770;280;929;930;5156;144;17;1660;"Fuente Aragón Hoy y Situación asistencial y epidemiológica COVID-19 en Aragón. https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_23-07-2020.xlsx ";;;;;;
+2020-07-23;9496;2800;283;929;940;5182;152;19;417;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón";;;" ";;;
+2020-07-24;9802;2837;286;930;954;5214;174;19;306;"Fuente Aragón Hoy y Situación asistencial y epidemiológica COVID-19 en Aragón.   https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_27-07-2020.xlsx";;;;;;
+2020-07-27;11039;2946;293;934;975;5262;239;25;1237;"Fuente Aragón Hoy y Situación asistencial y epidemiológica COVID-19 en Aragón. https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_28-07-2020.xlsx";;;;;;
+2020-07-28;11406;3008;295;935;976;5296;267;27;367;"Fuente Aragón Hoy y Situación asistencial y epidemiológica COVID-19 en Aragón. https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_29-07-20209.xlsx";;;;;;
+2020-07-29;11838;3059;299;937;986;5339;;;432;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACION+COVID19+ARAGON_30-07-20209+.xlsx";;;;;;
+2020-07-30;12241;3107;302;944;993;5397;282;30;403;"Fuente Aragón Hoy y Situación asistencial y epidemiológica COVID-19 en Aragón. https://www.aragon.es/documents/20127/1650151/RESUMEN+SITUACI%C3%93N+COVID19+ARAGON_31-07-20209.xlsx";;;;;;
+2020-08-03;15081;3320;320;956;1076;5555;435;39;588;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_04-08-2020.xlsx";15065;;148299;;;
+2020-08-04;15470;3372;320;963;1089;5734;444;40;370;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_05-08-2020.xlsx";15454;;151338;;;
+2020-08-05;16123;3420;326;973;1107;5959;449;42;633;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. salvados\RESUMEN SITUACIÓN COVID19 ARAGON_06-08-2020.xlsx";16107;;154989;;;
+2020-08-06;16514;3473;331;979;1116;6156;455;42;491;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. salvados\RESUMEN SITUACIÓN COVID19 ARAGON_07-08-2020_2.xlsx";16498;;157798;;;
+2020-08-07;17216;3537;331;985;1130;6430;493;51;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_10-08-2020.xlsx";17199;;163097;;;
+2020-08-10;18875;3670;343;1017;1166;6833;506;54;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_11-08-2020.xlsx";18858;;185759;;;
+2020-08-11;19345;3713;347;1027;1169;7118;498;56;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_12-08-2020 .xlsx";19328;;188424;;;
+2020-08-13;19668;3766;352;1040;1168;7394;496;53;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_13-08-2020.xlsx";19651;;191039;;;
+2020-08-14;20117;3824;355;1054;1184;7716;502;57;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_14-08-2020 (1).xlsx";20097;;195462;;;
+2020-08-17;20656;3873;355;1065;1202;7260;549;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_17-08-2020 (1).xlsx";20635;;198134;;;
+2020-08-18;22570;4018;374;1090;1255;9090;489;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_19-08-2020.xlsx";22548;;;;;
+2020-08-19;23045;4063;377;1104;1269;9611;474;64;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_20-08-2020.xlsx";23022;;;;;
+2020-08-20;23450;4109;380;1118;1277;10491;476;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_21-08-2020 (1).xlsx";23426;;217463;;;
+2020-08-24;24796;4257;390;1158;1314;12115;457;68;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_25-08-2020.xlsx";24772;;232465;;;
+2020-08-25;24958;4300;395;1169;1317;12669;459;65;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_26-08-2020.xlsx";24934;;234450;;;
+2020-08-26;25282;4340;401;1175;1331;13410;453;63;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_27-08-2020.xlsx";25258;;237383;;;
+2020-08-27;25578;4374;404;1180;1345;13940;451;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_28-08-2020.xlsx";25554;;240030;;;
+2020-08-31;26585;4523;415;1197;1369;15886;446;67;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_01-09-2020 .xlsx";26561;;250124;;;
+2020-09-01;26859;4554;417;1202;1376;16533;428;67;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_02-09-2020_1.xlsx";26835;;252465;;;
+2020-09-02;27088;4585;421;1216;1386;17143;413;66;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_03-09-2020.xlsx";27064;;255188;;;
+2020-09-03;27329;4621;424;1221;1398;17490;399;67;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACION COVID19 ARAGON_04-09-2020.xlsx";27305;;257588;;;
+2020-09-04;27682;4657;427;1231;1407;18007;419;66;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_07-09-2020.xlsx";27658;;260425;;;
+2020-09-07;28605;4757;431;1239;1441;18731;417;67;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_08-09-2020.xlsx";28581;;267818;;;
+2020-09-08;28822;4800;433;1247;1448;19191;419;68;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_09-09-2020.xlsx";28798;;269708;;;
+2020-09-09;29112;4846;434;1259;1455;19679;410;66;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_10-09-2020.xlsx";29088;;272095;;;
+2020-09-10;29487;4892;439;1266;1463;20003;402;60;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_11-09-2020.xlsx";29463;;275185;;;
+2020-09-11;29865;4930;440;1278;1472;20572;409;58;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_14-09-2020.xlsx";29841;;278208;;;
+2020-09-14;31154;5039;449;1300;1492;21171;423;60;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_15-09-2020.xlsx";31130;;286931;;;
+2020-09-15;31380;5086;454;1306;1499;21561;411;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_16-09-2020.xlsx";31356;;289209;;;
+2020-09-16;31677;5136;458;1314;1505;21950;407;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_17-09-2020.xlsx";31653;;291902;;;
+2020-09-17;32008;5176;459;1321;1510;22318;411;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_18-09-2020.xlsx";31984;;295827;;;
+2020-09-18;32436;5222;461;1328;1520;22600;425;64;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_21-09-2020.xlsx";32412;;299235;;;
+2020-09-21;33597;5336;471;1347;1534;23223;442;63;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_22-09-2020.xlsx";33572;;309844;;;
+2020-09-22;33916;5385;479;1354;1541;23679;431;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_23-09-2020.xlsx";33891;;312621;;;
+2020-09-23;34179;5431;479;1373;1550;24041;415;61;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_24-09-2020.xlsx";34154;;316117;;;
+2020-09-24;34431;5462;482;1375;1558;24398;404;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_25-09-2020.xlsx";34406;;319157;;;
+2020-09-29;36012;5618;491;1412;1583;25401;400;63;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_29-09-2020.xlsx";35987;;334696;;;
+2020-09-30;36257;5657;494;1418;1605;25814;359;62;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_30-09-2020.xlsx";36232;;338586;;;
+2020-10-01;36581;5691;494;1424;1684;26229;370;63;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_01-10-2020.xlsx";36556;;340863;;;
+2020-10-02;36864;5736;502;1426;1692;26666;364;60;;"Fuente Situación asistencial y epidemiológica COVID-19 en Aragón. RESUMEN SITUACIÓN COVID19 ARAGON_02-10-2020.xlsx";36839;;344447;;;
+2020-10-08;39471;5997;514;1483;1774;29223;371;61;;"Fuente: Aragón Hoy 08/10/2020 y Sanidad RESUMEN SITUACIÓN COVID19 ARAGON_08-10-2020.xlsx";;;;;;
+2020-10-19;44322;5964;463;1528;;;575;74;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 19/10/2020";;;;;19242;17,7
+2020-10-20;45066;6018;466;1541;;;577;74;744;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 20/10/2020";;;;;20466;19
+2020-10-21;45479;6031;467;1543;;;592;77;413;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 21/10/2020";;;;;21906;20,01
+2020-10-22;47076;;;;;;625;80;1597;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 22/10/2020";;;;;21725;19,9
+2020-10-23;48283;6205;486;;;;635;83;1207;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 23/10/2020";;;;;25269;20,06
+2020-10-26;51502;6400;505;1598;;;739;83;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 26/10/2020";;;;;25948;21,9
+2020-10-27;52543;6477;508;1613;;;775;88;1041;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 27/10/2020";;;;;26335;21,71
+2020-10-28;53753;6547;517;1620;;;826;92;1210;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 28/10/2020";;;;;27482;22
+2020-10-29;54925;6619;521;1627;;;852;97;1172;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 29/10/2020";;;;;28058;22,1
+2020-10-30;56181;6706;527;1654;;;882;98;1256;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 30/10/2020";;;;;36133;22,34
+2020-11-02;59244;6928;542;1691;;;928;106;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 02/11/2020";;;;;27871;22
+2020-11-03;59891;6975;546;1706;;;1016;106;647;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 03/11/2020";;;;;25860;21,88
+2020-11-04;60920;7175;636;1730;;;1038;110;1029;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 04/11/2020";;;;;25638;22,1
+2020-11-05;61868;7210;643;1753;;;1039;112;948;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 05/11/2020";;;;;25519;22,22
+2020-11-06;62653;7290;652;1780;;;972;114;785;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 06/11/2020";;;;;33555;21,98
+2020-11-09;64835;7450;664;1860;;;1099;116;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 09/11/2020";;;;;19814;22,1
+2020-11-10;65485;7508;668;1881;;;996;119;650;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 10/11/2020";;;;;19477;21,98
+2020-11-11;66323;7588;675;1911;;;675;121;838;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 11/11/2020";;;;;18835;21,61
+2020-11-12;67053;7660;684;1943;;;984;112;730;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 12/11/2020";;;;;18865;21,22
+2020-11-13;67697;7721;690;1966;;;947;116;644;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 13/11/2020";;;;;33081;21,05
+2020-11-16;68814;7862;696;2039;;;920;116;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 16/11/2020";;;;;19096;1894
+2020-11-17;69196;7894;702;2067;;;884;884;382;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 17/11/2020";;;;;18518;18,2
+2020-11-18;69665;7933;706;2106;;;846;115;469;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 18/11/2020";;;;;18003;17,67
+2020-11-19;70209;7978;715;2129;;;778;122;544;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 19/11/2020";;;;;17754;17,6
+2020-11-20;70624;8034;720;2148;;;738;118;415;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 20/11/2020";;;;;26463;17,13
+2020-11-23;71336;8111;727;2189;;;709;110;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 23/11/2020";;;;;16131;15,81
+2020-11-24;71590;8133;730;2208;;;687;103;254;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 24/11/2020";;;;;22018;15,72
+2020-11-25;71924;8198;732;2227;;;8198;732;334;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 25/11/2020";;;;;15319;15,47
+2020-11-26;72243;8224;734;2251;;;583;98;319;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 26/11/2020";;;;;15028;15,44
+2020-11-27;72590;8264;739;2279;;;572;98;347;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 27/11/2020";;;;;20659;15,03
+2020-11-30;73375;8351;748;2314;;;581;98;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 30/11/2020";;;;;19214;13,59
+2020-12-01;73614;8932;803;2335;;;567;95;239;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 01/12/2020";;;;;19667;13,63
+2020-12-02;73982;8965;810;2344;;;546;92;368;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 02/12/2020";;;;;13024;13,67
+2020-12-03;74280;9011;812;2354;;;540;94;298;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 03/12/2020";;;;;13085;1363
+2020-12-04;74534;9035;817;2360;;;522;89;254;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 04/12/2020";;;;;19311;13,54
+2020-12-07;75088;;;2395;;;;;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 08/12/2020";;;;;18156;12,4
+2020-12-09;75321;9172;834;2416;;;497;76;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 09/12/2020";;;;;11754;12,17
+2020-12-10;75322;9166;832;;;;482;74;1;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 10/12/2020";;;;;11638;12,14
+2020-12-11;75638;9203;834;2450;;;463;71;316;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 11/12/2020";;;;;14525;11,62
+2020-12-14;76246;9274;838;2471;;;422;61;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 14/12/2020";;;;;9817;11,46
+2020-12-15;76446;9309;839;2503;;;426;60;200;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 15/12/2020";;;;;10599;11,31
+2020-12-16;76714;9325;842;2516;;;417;57;268;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 16/12/2020";;;;;14842;11,14
+2020-12-17;76933;9360;846;2525;;;386;53;219;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 17/12/2020";;;;;11006;10,89
+2020-12-18;77112;9383;850;2535;;;387;52;179;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 18/12/2020";;;;;12225;11,17
+2020-12-21;77588;9455;860;2552;;;391;54;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 21/12/2020";;;;;15347;11,17
+2020-12-22;77769;9484;859;2562;;;369;49;181;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 22/12/2020";;;;;15754;11,03
+2020-12-23;77980;9502;859;2577;;;359;46;211;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 23/12/2020";;;;;15548;10,92
+2020-12-24;78124;9503;860;2584;;;321;46;144;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 24/12/2020";;;;;15525;11,07
+2020-12-28;78849;9586;877;2596;;;350;49;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 28/12/2020";;;;;9875;11,39
+2020-12-29;79122;9610;880;2615;;;353;44;273;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 29/12/2020";;;;;12119;11,68
+2020-12-30;79551;9641;883;2623;;;335;42;429;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 30/12/2020";;;;;12367;11,98
+2020-12-31;80023;9672;887;2634;;;312;44;472;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 31/12/2020";;;;;12478;12,09
+2021-01-04;80976;9771;898;2653;;;388;48;;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 04/01/2021";;;;;9362;11,24
+2021-01-05;81298;9802;902;2659;;;441;46;322;"Fuente Centro de Coordinación de Alertas y Emergencias Sanitarias. Gobierno de España 05/01/2021";;;;;9528;15,42

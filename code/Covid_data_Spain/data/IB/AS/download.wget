@@ -1,0 +1,1294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es" class="aui">
+<head>
+  <!-- Estilo para el head-->
+
+
+		
+		  
+			
+
+
+
+
+
+
+
+
+
+
+		<title>Catálogo de datos - Gobierno del Principado de Asturias</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/><meta content="Gobierno Principado Asturias, administración, Asuntos sociales, Cultura, Educación y formación, Empleo, Infraestructuras y Equipamiento, Investigación y tecnología, Ocio y turismo, Salud y servicios sanitarios, Seguridad pública, Vivienda, Agricultura y Montes, Artesan&amp;iacute;a y Comercio, Consumo, Economía y finanzas, Función Pública, Industria y Energía, Medio ambiente y territorio, Pesca, Relaciones exteriores" name="Keywords"/><meta content="Portal de Tansparencia Principado de Asturias" name="description"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link media="screen" type="text/css" rel="stylesheet" href="/RecursosWeb/transparencia/css/bootstrap.min.css"/><link media="screen" type="text/css" rel="stylesheet" href="/RecursosWeb/transparencia/css/style.css"/><link media="print" type="text/css" rel="stylesheet" href="/RecursosWeb/transparencia/css/print.css"/><link media="screen" type="text/css" rel="stylesheet" href="/RecursosWeb/transparencia/css/transparencia.css"/>		<!--[if IE 8]>        	<link href="/RecursosWeb/transparencia/css/styleIE8.css" rel="stylesheet" type="text/css" media="screen"/>     	<![endif]--> 	<script src="/RecursosWeb/transparencia/js/jquery.min.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/bootstrap.min.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/bootstrap-tooltip.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/bootstrap-popover.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/informes.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/carrusel.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/menu.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/share.js" type="text/javascript"><!--script--></script><script src="/RecursosWeb/transparencia/js/utils.js" type="text/javascript"><!--script--></script><link href="/RecursosWeb/transparencia/images/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+
+
+
+
+
+
+
+
+		  
+		  
+		
+		
+<!-- Fin estilo para el head-->
+  
+    <!-- AFF Estilo estadisticas con Google Analytics -->
+	<!-- Estilo para las estadisticas omniture -->
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-87670775-1"]);
+    _gaq.push(["_trackPageview"]);
+    _gaq.push(["_trackEvent", "General", "Canal", "Gobierno Abierto"]);
+    _gaq.push(["_trackEvent", "General", "Canal1", "Open Data"]);
+    _gaq.push(["_trackEvent", "General", "Canal2", "Catalogo de datos"]);
+    _gaq.push(["_trackEvent", "General", "Canal3", ""]);
+    _gaq.push(["_trackEvent", "General", "Canal4", ""]);
+    _gaq.push(["_trackEvent", "General", "Idioma", "Espanol"]);
+</script>
+<script src="/RecursosWeb/MTV/Estadisticas/ganalytic.js" type="text/javascript"><!--script--></script><script type="text/javascript">if(screen.width > 800){_gaq.push(['_trackEvent', "General","Dispositivo", 'General']);}else{_gaq.push(['_trackEvent',"General","Dispositivo", 'Movil']);}</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(["gob._setAccount", "UA-92092024-1"]);
+    _gaq.push(["gob._trackPageview"]);
+    _gaq.push(["gob._trackEvent", "General", "Canal", "Gobierno Abierto"]);
+    _gaq.push(["gob._trackEvent", "General", "Canal1", "Open Data"]);
+    _gaq.push(["gob._trackEvent", "General", "Canal2", "Catalogo de datos"]);
+    _gaq.push(["gob._trackEvent", "General", "Canal3", ""]);
+    _gaq.push(["gob._trackEvent", "General", "Canal4", ""]);
+    _gaq.push(["gob._trackEvent", "General", "Idioma", "Espanol"]);
+</script>
+<script src="/RecursosWeb/MTV/Estadisticas/ganalytic.js" type="text/javascript"><!--script--></script><script type="text/javascript">if(screen.width > 800){_gaq.push(['_trackEvent', "General","Dispositivo", 'General']);}else{_gaq.push(['_trackEvent',"General","Dispositivo", 'Movil']);}</script>
+
+
+
+</head>
+
+<body>
+	
+
+
+
+<div id="header1">
+	<div class="container">
+		<div class="row">
+			<div class="logo col-md-6">
+				<a href="/portal/site/webasturias/menuitem.91cd0facbcdb17a73e2d6f77f2300030/?vgnextoid=dad56fc85c97d210VgnVCM1000002f030003RCRD&i18n.http.lang=es" title="Gobierno Asturiano">
+					<img alt="Logo Gobierno Asturiano" src="/RecursosWeb/transparencia/images/logo_pa.gif"/>
+				</a>
+				<h1>
+					
+						
+						<img alt="Logo Portal de Transparencia	" src="/RecursosWeb/transparencia/images/comunes/logo_transparencia.png"/>
+					
+				</h1>
+			</div>
+			
+			
+			
+			
+
+
+
+
+
+
+
+
+
+
+		<div class="menu-superior col-md-6">
+<ul>
+<li class="icono-prehome">
+<a title="Ir a Gobierno Abierto del Principado de Asturias" href="/portal/site/webasturias/menuitem.99de692250b4dd14dc6af3c0ec12b2a0/?vgnextoid=1fb899b1b5cf7510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">
+<img src="/RecursosWeb/transparencia/images/home/icono_home.png" alt="Icono - Ir a Gobierno Abierto del Principado de Asturias"/>
+</a>
+</li>
+<li>
+<a target="_blank" title="Transparencia" href="https://www.asturias.es/transparencia">Transparencia</a>
+</li>
+<li>
+<a target="_blank" title="Participación" href="http://www.asturiasparticipa.es/">Participación</a>
+</li>
+<li>
+<a target="_blank" title="Open Data" href="/portal/site/webasturias/menuitem.7b2ff7592927f53571a70084ec12b2a0/?vgnextoid=2cab7cd61f918510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Open Data</a>
+</li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+			
+
+			
+			<!-- <form method="get" action="/portal/site/webasturias/menuitem.e8ca1cebfbabf1d871a70084ec12b2a0/?javax.portlet.tpst=a3df6ab5dcf0f40971a70084ec12b2a0&amp;javax.portlet.begCacheTok=com.vignette.cachetoken&amp;javax.portlet.endCacheTok=com.vignette.cachetoken" id="buscador">
+			<div class="bloque-buscador-cabecera col-md-6">
+				<div class="buscador-cabecera">
+					<div class="input-group" id="adv-search">
+						<input type="text" class="form-control" id="campobusq" name="general_search" value="Asturias" onclick="javascript:limpiarControl();" placeholder="Buscar..."/>
+						<input type="hidden" id="i18n.http.lang" name="i18n.http.lang" value="es" />
+						<input type="hidden" id="vgnextoid" name="vgnextoid" value="0ebd102359788510VgnVCM100000ce212b0aRCRD" />
+						<input type="hidden" id="process" name="process" value="action" />
+						<input type="hidden" id="field_filter_name" name="field_filter_name" value="IDIOMA" />
+						<input type="hidden" id="busqueda" name="busqueda" value=""/>
+						<div class="input-group-btn">
+							<div class="btn-group" role="group">
+								<input type="button" class="btn btn-primary" value="Pulsa para buscar" id="btn-busq" name="btn-busq" onclick="document.getElementById('busqueda').value=document.getElementById('campobusq').value">
+									<img alt="Icono - Datos EconÃ³micos" src="/RecursosWeb/transparencia/images/comunes/search_header.png"></img>
+								</input>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="radio-buscador">
+					<div class="">
+						<input type="radio" name="radio" checked="checked" id="radio1"/>
+						<label for="radio1">en el Portal de Transparencia</label>
+					</div>
+					<div class="">
+						<input type="radio" name="radio" id="radio3"/>
+						<label for="radio3">en Asturias.es</label>
+					</div>
+				</div>
+			</div>
+		</form> -->
+		<form method="get" action="/portal/site/webasturias/menuitem.e8ca1cebfbabf1d871a70084ec12b2a0/?javax.portlet.tpst=a3df6ab5dcf0f40971a70084ec12b2a0&amp;javax.portlet.begCacheTok=com.vignette.cachetoken&amp;javax.portlet.endCacheTok=com.vignette.cachetoken" id="buscador">
+			<div class="bloque-buscador-cabecera col-md-6">
+				<div class="buscador-cabecera">
+					<div class="input-group" id="adv-search">
+						<input type="text" class="form-control" id="campobusq" name="general_search" onclick="javascript:limpiarControl();" placeholder="Buscar..."/>
+						<input type="hidden" id="i18n.http.lang" name="i18n.http.lang" value="es" />
+						<input type="hidden" id="vgnextoid" name="vgnextoid" value="0ebd102359788510VgnVCM100000ce212b0aRCRD" />
+						<input type="hidden" id="process" name="process" value="action" />
+						<input type="hidden" id="field_filter_name" name="field_filter_name" value="IDIOMA" />
+						<input type="hidden" id="busqueda" name="busqueda" value=""/>
+						<div class="input-group-btn">
+							<div class="btn-group" role="group">
+								<button type="submit" class="btn btn-primary">
+									<!-- <input type="image" class="btn btn-primary" alt="Pulsa para buscar" src="/RecursosWeb/transparencia/images/comunes/search_header.png"" value="Pulsa para buscar" id="btn-busq" name="btn-busq" onclick="document.getElementById('busqueda').value=document.getElementById('campobusq').value" /> -->
+									<img alt="Icono - Datos EconÃ³micos" src="/RecursosWeb/transparencia/images/comunes/search_header.png"></img>
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!-- <div class="radio-buscador">
+					<div class="">
+						<input type="radio" name="radio" checked="checked" id="radio1"/>
+						<label for="radio1">en el Portal de Transparencia</label>
+					</div>
+					<div class="">
+						<input type="radio" name="radio" id="radio3"/>
+						<label for="radio3">en Asturias.es</label>
+					</div>
+				</div> -->
+			</div>
+		</form>
+		
+	</div> <!--row-->
+
+</div><!--container-->
+
+</div><!--header1-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div id="navbar"><div class="container"><div class="row col-md-12"><ul class="menu col-md-10"><li class="dropdown"><a title="Catálogo de datos" href="/portal/site/webasturias/menuitem.25be98c916095eca05a0d590ec12b2a0/?vgnextoid=320afaf18a869510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es" class="dropbtn">Catálogo de datos</a><ul class="dropdown-content"><li><a title="Formatos" href="/portal/site/webasturias/menuitem.261fb7b7e61c0627dfe005b3ec12b2a0/?vgnextoid=c6b6722a32f45210VgnVCM10000097030a0aRCRD&amp;vgnextchannel=2c0afaf18a869510VgnVCM100000ce212b0aRCRD&amp;vgnextfmt=formatArticulo&amp;i18n.http.lang=es">Formatos</a></li><li><a title="Licencias y términos de uso" href="/portal/site/webasturias/menuitem.261fb7b7e61c0627dfe005b3ec12b2a0/?vgnextoid=86e3722a32f45210VgnVCM10000097030a0aRCRD&amp;vgnextchannel=78f9faf18a869510VgnVCM100000ce212b0aRCRD&amp;vgnextfmt=formatArticulo&amp;i18n.http.lang=es">Licencias y términos de uso</a></li><li><a title="Reutilización de información pública" href="/portal/site/webasturias/menuitem.261fb7b7e61c0627dfe005b3ec12b2a0/?vgnextoid=0f0c54f453f45210VgnVCM10000097030a0aRCRD&amp;vgnextchannel=eee9faf18a869510VgnVCM100000ce212b0aRCRD&amp;vgnextfmt=formatArticulo&amp;i18n.http.lang=es">Reutilización de información pública</a></li></ul></li><li class="dropdown"><a title="Visualización y descarga de datos" target="_blank" href="/portal/site/webasturias/template.PAGE/BuscadorOpenDataTransparencia/?accion=resultados_view&amp;busqueda=&amp;busq-tipo=7b3106c9a1750610VgnVCM10000077020a0aRCRD&amp;FechaCheckHidden1=F-FIN&amp;FechaCheckCompHidden1=1&amp;canales=&amp;fechaInicio=&amp;fechaFin=&amp;vgnextoid=320afaf18a869510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es" class="dropbtn">Visualización y descarga de datos</a></li></ul><div onclick="clickHamburger()" class="hamburger"><span>Menú</span><img src="/RecursosWeb/transparencia/images/comunes/menu_white.png" alt="Abrir menú principal"/></div><div onclick="clickCross()" class="cross"><span>Menú</span><img src="/RecursosWeb/transparencia/images/comunes/close_white.png" alt="Cerrar menú principal"/></div></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div id="wrapper">
+    <div class="container">
+       
+      
+<div class='row migas'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+		<div class="col-md-12">
+<ol class="breadcrumb">
+<li>
+<a href="/portal/site/webasturias/menuitem.91cd0facbcdb17a73e2d6f77f2300030/?vgnextoid=dad56fc85c97d210VgnVCM1000002f030003RCRD&amp;i18n.http.lang=es">Inicio</a>
+</li>
+<li>
+<a href="/portal/site/webasturias/menuitem.99de692250b4dd14dc6af3c0ec12b2a0/?vgnextoid=1fb899b1b5cf7510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Gobierno Abierto</a>
+</li>
+<li>
+<a href="/portal/site/webasturias/menuitem.7b2ff7592927f53571a70084ec12b2a0/?vgnextoid=2cab7cd61f918510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Open Data</a>
+</li>
+<li>
+<a href="/portal/site/webasturias/menuitem.25be98c916095eca05a0d590ec12b2a0/?vgnextoid=320afaf18a869510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Catálogo de datos</a>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<!-- Tiempo de ejecucion: 0 --></div>
+<div class='row contenido'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<script src="/RecursosWeb/webasturias/js/informes.js" type="text/javascript"> <!-- comentario --> </script>
+<link media="screen" type="text/css" rel="stylesheet" href="/RecursosWeb/transparencia/css/CAL_CSS_estilos.css"/>
+<script type="text/javascript" src="/RecursosWeb/transparencia/js/CAL_JS_comportamiento.js"></script>
+
+<div class="bloque-contenido buscador-catalogo">
+    <!--<div id="parrafoImprimir" class="imprimir2"><a onclick="self.print();return false" class="imprimir" href="#" title="Imprimir">Imprimir</a></div>-->
+    <h2>Catálogo de datos</h2>
+    
+        <div id="preparing-file-modal" title="Preparando la descarga..." style="display: none;">
+            Se está procesando la descarga, por favor espere...
+            <div class="ui-progressbar-value ui-corner-left ui-corner-right" style="width: 100%; height:22px; margin-top: 20px;"></div>
+        </div>
+
+        <div id="error-modal" title="Error" style="display: none;">
+            Se ha producido un error al generar la descarga, por favor inténtelo de nuevo más tarde.
+        </div>
+
+        
+        	
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix" >
+	<div class="vueltaBuscador">
+	    <a href="/portal/site/webasturias/template.PAGE/BuscadorOpenDataTransparencia/?javax.portlet.tpst=27559f0de420e9ca05a0d590ec12b2a0&javax.portlet.prp_27559f0de420e9ca05a0d590ec12b2a0_viewID=MY_PORTAL_VIEW&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&vgnextoid=320afaf18a869510VgnVCM100000ce212b0aRCRD&format=defaultaccion=MY_PORTAL_VIEW&busqueda=&busq-tipo=7b3106c9a1750610VgnVCM10000077020a0aRCRD&FechaCheckHidden1=F-FIN&FechaCheckCompHidden1=1&canales=&fechaInicio=&fechaFin=&vgnextoid=320afaf18a869510VgnVCM100000ce212b0aRCRD&i18n.http.lang=es">
+	        Volver al buscador
+	    </a>
+	</div>
+	<h3>Visualización gráfica de datos (precisa navegador actualizado)</h3>
+    
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Administración</div>
+			        <div class="panel-body">
+		                
+		                	<p> Información para conocer mejor la Administración de Principado, organización, funciones, ...</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Información para conocer mejor la Administración de Principado, organización, funciones, ...">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Oficinas de asistencia en materia de registro</td>
+				                        
+				                        <td> Mapa con la oficinas de asistencia en materia de registro</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/59635418778d9822e5f7e59f?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-oficinas-registro.csv" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/csv.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Resoluciones de compatibilidad</td>
+				                        
+				                        <td> Cuadro de mando sobre las resoluciones de compatibilidad</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/596fcf7d778d9822e5f823f8?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/compatibilidades publicas privadas.csv" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/csv.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Redes sociales</td>
+				                        
+				                        <td> Perfil en redes sociales de distintos órganos del Principado de Asturias</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/5be41de375d572337a9467f5" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-redes-sociales.csv" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/csv.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Demografía y población</div>
+			        <div class="panel-body">
+		                
+		                	<p> Datos de evolución de la población asturiana por concejo, sexo, nacionalidad...</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Datos de evolución de la población asturiana por concejo, sexo, nacionalidad...">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Población</td>
+				                        
+				                        <td> Evolución de la población de Asturias por municipio. Ambos sexos.</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/54c695d903208f354ff9858a?lang=es&tabsIds=a52177" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-poblacion-(I).xlsx" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/xls.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Mapa demográfico</td>
+				                        
+				                        <td> Evolución de la población de Asturias por municipio. Ambos sexos.</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/54c695d903208f354ff9858a?lang=es&tabsIds=4e395b" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-poblacion-(I)-sin-sexo.xlsx" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/xls.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Inmigración</td>
+				                        
+				                        <td> Evolución de la población de Asturias según nacionalidad (españoles/extranjeros) y sexo</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/54c695d903208f354ff9858a?lang=es&tabsIds=f38cf8" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-poblacion-(II).xlsx" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/xls.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Derecho a saber</div>
+			        <div class="panel-body">
+		                
+		                	<p> Datos y estadísticas sobre solicitudes de acceso a información pública, sus resultados y reclamaciones ante el Consejo de Transparencia y Buen Gobierno.</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Datos y estadísticas sobre solicitudes de acceso a información pública, sus resultados y reclamaciones ante el Consejo de Transparencia y Buen Gobierno.">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Boletín SAIP</td>
+				                        
+				                        <td> Solicitudes de Acceso a Información Pública</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/5ace2cc40ff7b667b424a48c?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-boletin-saip.csv" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/csv.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Economía y finanzas</div>
+			        <div class="panel-body">
+		                
+		                	<p> Información tributaria, presupuestos generales del Principado de Asturias, contratos, subvenciones, recaudación tributaria.</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Información tributaria, presupuestos generales del Principado de Asturias, contratos, subvenciones, recaudación tributaria.">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Perfil del contratante</td>
+				                        
+				                        <td> Información de los procedimientos de contratación del Principado de Asturias</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/57c58ce639196af672658171?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/20180808-dataset -perfil-contratante-acumulado-2015-2017.xlsx" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/xls.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Contratos menores</td>
+				                        
+				                        <td> Relación de contratos menores de 2016, 2017 y 2018</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/59bd4c1b778d9822e5f849e3" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/20180521-dataset-contratos-menores.csv" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/csv.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Recaudación de ingresos tributarios de gestión autonómica</td>
+				                        
+				                        <td> Estadística de ingresos tributarios de gestión autonómica</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="https://app.transparenciaendatos.es/v/#!/5de797313b99c0570adc3a41" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-recaudacion-ente-tributario-version-2020.xlsx" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/xls.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Subvenciones y ayudas</td>
+				                        
+				                        <td> Convocatorias y concesiones desde 2016</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/5b257f671989cd34c0d8558f" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-concesiones-convocatorias.xlsx" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/xls.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Empleo</div>
+			        <div class="panel-body">
+		                
+		                	<p> Paro y contración registrada en el Principado de Asturias.</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Paro y contración registrada en el Principado de Asturias.">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Paro en Asturias (desde 2007)</td>
+				                        
+				                        <td> Análisis del paro registrado en Asturias desde el año 2007</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/552be540dcd31aaa040cd7ae?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     	<a target="_blank"  href="https://www.asturias.es/portal/site/trabajastur/menuitem.bdf94b556ab691c81615a2b9331081ca/?vgnextoid=d7015ff1ffa24410VgnVCM10000098030a0aRCRD&18n.http.lang=es" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/otro.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Paro en Asturias - Avanzado (desde 2007)</td>
+				                        
+				                        <td> Análisis avanzado del paro registrado en Asturias desde el año 2007</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/556edf815ca672261978d7a6?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     	<a target="_blank"  href="https://www.asturias.es/portal/site/trabajastur/menuitem.bdf94b556ab691c81615a2b9331081ca/?vgnextoid=d7015ff1ffa24410VgnVCM10000098030a0aRCRD&18n.http.lang=es" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/otro.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Paro en Asturias por municipio (desde 2007)</td>
+				                        
+				                        <td> Análisis del paro registrado en Asturias desglosado por municipio desde el año 2007</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/556f714c5ca672261978d7a9?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     	<a target="_blank"  href="https://www.asturias.es/portal/site/trabajastur/menuitem.bdf94b556ab691c81615a2b9331081ca/?vgnextoid=d7015ff1ffa24410VgnVCM10000098030a0aRCRD&18n.http.lang=es" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/otro.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Contratación en Asturias (desde 2013)</td>
+				                        
+				                        <td> Análisis de la contratación registrada en Asturias desde el año 2013</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/558c77ffb986455f48778daa?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     	<a target="_blank"  href="https://www.asturias.es/portal/site/trabajastur/menuitem.bdf94b556ab691c81615a2b9331081ca/?vgnextoid=d7015ff1ffa24410VgnVCM10000098030a0aRCRD&18n.http.lang=es" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/otro.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Titulaciones</td>
+				                        
+				                        <td> Titulaciones académicas de demandantes parados</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/57daa76c9a0bec84088f254d?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+				                    <tr>
+				                    	<td>Movilidad de trabajadores</td>
+				                        
+				                        <td> Contratación y movilidad geográfica de los trabajadores</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/578e0dc68eaff18821d1b6a5?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Salud</div>
+			        <div class="panel-body">
+		                
+		                	<p> Recursos sanitarios, enfermedades, farmacias, salud laboral, asociaciones de enfermos, consultas y consejos.</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Recursos sanitarios, enfermedades, farmacias, salud laboral, asociaciones de enfermos, consultas y consejos.">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Evolución COVID-19</td>
+				                        
+				                        <td> Evolución de los principales indicadores de la enfermedad producida por COVID-19</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="https://app.powerbi.com/view?r=eyJrIjoiNTdhYzlhYjUtZmFjNi00NjBhLThiNTktMmNjNDY5NzYzNjBlIiwidCI6IjI4ZmI0NmYwLTU0OWYtNDI5Ny1iOTZmLWFjNjJhZTkxY2YwYyIsImMiOjl9&pageName=ReportSectionda82d8ffb60be1590dd8" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+			<div class="panel-social extendable-panel col-md-12">
+				
+			    <div class="panel panel-info">
+			        <div class="panel-heading">Turismo</div>
+			        <div class="panel-body">
+		                
+		                	<p> Mapas e información sobre turismo en el Principado de Asturias.</p>
+		                
+			            <div class="col-md-16 datasets-collapse table-responsive">
+			                <table class="table table-bordered" summary="Mapas e información sobre turismo en el Principado de Asturias.">
+			                    <thead>
+				                    <tr>
+				                        <th>Conjunto de datos</th>
+				                        <th>Descripción</th>
+				                        <th>Descargas</th>
+				                    </tr>
+			                    </thead>
+			                    <tbody>
+			                    
+				                    <tr>
+				                    	<td>Marcas de calidad turística</td>
+				                        
+				                        <td> Establecimientos asturianos que disponen de la marca de calidad y garantía turística del Principado de Asturias.</td> 
+				                        
+				                        <td class="text-center">
+					                        
+						                        <a target="_blank"  href="http://app.transparenciaendatos.es/v/#!/5ae1c8580ff7b667b424aa32?lang=es" title="Ver visualización" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/grafica.png" width="19" height="17" border="0" alt="Ver visualización">
+			                              		 </a>
+						                    
+						                     
+						                     
+				                      
+				                         	
+						                     	<a target="_blank"  href="ftp://ftp.asturias.es/asturias/open-data/dataset-turismo.csv" title="Descargar fichero" class="enlaceDoc">
+				                               		<img src="/RecursosWeb/transparencia/images/iconos/csv.png" width="19" height="22" border="0" alt="Descargar fichero">
+			                              		</a>
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+						                     
+				                        </td>
+				                    </tr>
+			                    
+			               		</tbody>
+			                </table>
+			            </div>
+			        </div>
+			    </div>
+			</div>
+	
+
+</div>
+         
+    
+</div>
+
+ 
+
+
+
+<!-- Tiempo de ejecucion: 1 --></div> 
+    </div>
+  </div>
+
+  <div id="footer">
+    <!-- Estilo para el pie-->
+
+
+		
+		  
+			
+
+
+
+
+
+
+
+
+
+
+		
+<div id="footer1">
+<div class="container">
+<div class="row menufooter">
+<div class="col-md-12">
+<ul>
+<li>
+<a accesskey="" href="/portal/site/webasturias/menuitem.1b2c2cc45e66a7d43e2d6f77ec12b2a0/?vgnextoid=78dd7cd61f918510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Contactar</a>
+</li>
+<li>
+<a accesskey="" href="/portal/site/webasturias/menuitem.90c044475f0364e2fd74a1f0ec12b2a0/?vgnextoid=d20e7cd61f918510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Licencias y términos de uso</a>
+</li>
+<li>
+<a accesskey="" href="/portal/site/webasturias/menuitem.aed5112dda5fb391f7be5f37ec12b2a0/?vgnextoid=308ba7408a21a510VgnVCM100000ce212b0aRCRD&amp;i18n.http.lang=es">Mapa web</a>
+</li>
+<li>
+<a accesskey="" href="/portal/site/webasturias/menuitem.90c044475f0364e2fd74a1f0ec12b2a0/?vgnextoid=dd6a94448c370610VgnVCM10000098030a0aRCRD&amp;i18n.http.lang=es">Sobre este portal</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+		  
+		  
+		
+			<!-- <div id="footer1">
+                <div class="container">               
+                    <div class="row menufooter">    
+                        <div class="col-md-12">
+                          <ul>                            
+                              <li><a href="#" title="Mapa web">Mapa web</a></li>  
+                              <li><a href="#" title="Aviso legal">Aviso legal</a></li>  
+                              <li><a href="#" title="Contacto">Contacto</a></li>                    
+                              <li><a href="#" title="PolÃ­tica de privacidad">PolÃ­tica de privacidad</a></li>
+                              <li class="last"><a href="#" title="Accesibilidad">Accesibilidad</a></li>                                            
+                          </ul>
+                        </div>
+                     </div>
+                </div>
+              </div> -->
+
+              <div id="footer2">
+               <div class="container">
+                <div class="row dates">
+                 <p>&copy; Copyright 2017. Gobierno del Principado de Asturias</p>
+               </div>
+             </div>
+           </div>
+
+           <div id="footer3">
+             <div class="container">
+              <!--<a href="https://www.asturias.es/" title="Gobierno del Principado de Asturias"><img alt="Logo Gobierno del Principado de Asturias" src="/RecursosWeb/transparencia/images/footer/logo_pa.gif"/></a>-->
+            </div>
+          </div>
+  </div>
+	<!-- Estilo para el cierre estadisticas de omniture-->
+
+
+
+
+<script type="text/javascript">  (function() {
+    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<noscript>
+<img alt="" src="/portal/ga.jsp?utmac=MO-87670775-1&amp;utmn=835893492&amp;utmr=-&amp;utmp=%2Fportal%2Fsite%2Fwebasturias%2Ftemplate.PAGE%2FBuscadorOpenDataTransparencia%2F%3Faccion%3Dresultados_view%26busqueda%3D%26busq-tipo%3D7b3106c9a1750610VgnVCM10000077020a0aRCRD%26FechaCheckHidden1%3DF-FIN%26FechaCheckCompHidden1%3D1%26canales%3D%26fechaInicio%3D%26fechaFin%3D%26vgnextoid%3D320afaf18a869510VgnVCM100000ce212b0aRCRD%26i18n.http.lang%3Des&amp;guid=ON"/>
+</noscript>
+
+
+
+        <!--//BLOQUE COOKIES-->
+        
+<div id="barraaceptacion" class="hide">
+	<div class="inner">
+		Las cookies propias y de terceros nos permiten mejorar nuestros servicios. Al navegar por nuestro sitio web, aceptas el uso que hacemos de las cookies. 
+		<a href="javascript:void(0);" class="ok acceptCookie" title="Aceptar cookies"><b>ACEPTAR</b></a> | 
+		<a href="https://www.asturias.es" target="_blank" class="info" title="MÃ¡s informaciÃ³n cookies">M&aacute;s informaci&oacute;n</a>
+	</div>
+</div>
+
+        <!--//FIN BLOQUE COOKIES-->      
+</body>
+</html>
+
+
+
+

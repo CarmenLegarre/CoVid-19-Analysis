@@ -1,0 +1,9069 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="ltr" dir="ltr" lang="es-ES">
+
+<head>
+	<title>Inicio - Gobierno del Principado de Asturias  </title>
+
+	<meta content="initial-scale=1.0, width=device-width" name="viewport" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+<meta content="asturias.es" lang="es-ES" name="keywords" />
+
+
+<script data-senna-track="permanent" src="/o/frontend-js-lodash-web/lodash/lodash.js" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/o/frontend-js-lodash-web/lodash/util.js" type="text/javascript"></script>
+
+
+<link href="https://www.asturias.es/o/webasturias-theme/images/favicon.ico" rel="icon" />
+
+
+
+
+
+	<link data-senna-track="temporary" href="https://www.asturias.es" rel="canonical" />
+
+	
+
+			
+				<link data-senna-track="temporary" href="https://www.asturias.es" hreflang="x-default" rel="alternate" />
+			
+
+			<link data-senna-track="temporary" href="https://www.asturias.es" hreflang="es-ES" rel="alternate" />
+
+	
+
+			
+
+			<link data-senna-track="temporary" href="https://www.asturias.es/ast/" hreflang="ast-ES" rel="alternate" />
+
+	
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.asturias.es/o/webasturias-theme/css/clay.css?browserId=other&amp;themeId=webasturias_WAR_webasturiastheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7110&amp;t=1615231036000" id="liferayAUICSS" rel="stylesheet" type="text/css" />
+
+
+
+<link data-senna-track="temporary" href="/o/frontend-css-web/main.css?browserId=other&amp;themeId=webasturias_WAR_webasturiastheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7110&amp;t=1615230962971" id="liferayPortalCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+		<link data-senna-track="temporary" href="/combo?browserId=other&amp;minifierType=&amp;themeId=webasturias_WAR_webasturiastheme&amp;languageId=es_ES&amp;b=7110&amp;com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3:%2Fcss%2Fmain.css&amp;com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43:%2Fcss%2Fmain.css&amp;com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_templateSearch:%2Fsearch%2Fbar%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet:%2Fcss%2Fmain.css&amp;t=1615231036000" id="5821254f" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return false;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 0;
+			},
+
+			getRevision: function() {
+				return '';
+			},
+			getVersion: function() {
+				return '';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return false;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return false;
+			},
+			isSafari: function() {
+				return false;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return false;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			null
+
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 8589934592
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '70';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/group/asturias/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/inicio';
+				},
+				getLayoutURL: function() {
+					return 'https://www.asturias.es/inicio';
+				},
+				getParentLayoutId: function() {
+					return '0';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'es-ES';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fwww\x2easturias\x2ees';
+			},
+			getCDNBaseURL: function() {
+				return 'https://www.asturias.es';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '217099';
+			},
+			getCompanyId: function() {
+				return '217051';
+			},
+			getDefaultLanguageId: function() {
+				return 'es_ES';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'es_ES';
+			},
+			getParentGroupId: function() {
+				return '217090';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://www.asturias.es/o/webasturias-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/webasturias-theme';
+			},
+			getPlid: function() {
+				return '572298';
+			},
+			getPortalURL: function() {
+				return 'https://www.asturias.es';
+			},
+			getScopeGroupId: function() {
+				return '217090';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '217090';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.asturias.es/group/asturias/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '217090';
+			},
+			getURLControlPanel: function() {
+				return '/group/control_panel?refererPlid=572298';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2easturias\x2ees\x2fweb\x2fasturias\x2finicio';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '217054';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isFreeformLayout: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=webasturias_WAR_webasturiastheme&colorSchemeId=01&minifierType=js&languageId=es_ES&b=7110&t=1615611641571';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=es_ES&b=7110&t=1615230964357&';
+			},
+			getDateFormat: function() {
+				return '%d/%m/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=webasturias_WAR_webasturiastheme&colorSchemeId=01&minifierType=js&languageId=es_ES&b=7110&t=1615230964357';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=es_ES&b=7110&t=1615230964357';
+			}
+		};
+
+		Liferay.authToken = '0KGsVQea';
+
+		
+
+		Liferay.currentURL = '\x2f';
+		Liferay.currentURLEncoded = '\x252F';
+	// ]]>
+</script>
+
+
+
+	
+
+	<script src="/o/js_loader_modules?t=1615611683999" type="text/javascript"></script>
+
+
+<script src="/o/js_loader_config?t=1615611685018" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=es_ES&b=7110&t=1615230964357&/o/frontend-js-web/jquery/jquery.js&/o/frontend-js-web/clay/popper.js&/o/frontend-js-web/clay/bootstrap.js&/o/frontend-js-web/aui/aui/aui.js&/o/frontend-js-web/aui/aui-base-html5-shiv/aui-base-html5-shiv.js&/o/frontend-js-web/liferay/browser_selectors.js&/o/frontend-js-web/liferay/modules.js&/o/frontend-js-web/liferay/aui_sandbox.js&/o/frontend-js-web/clay/collapsible-search.js&/o/frontend-js-web/clay/side-navigation.js&/o/frontend-js-web/jquery/fm.js&/o/frontend-js-web/jquery/form.js&/o/frontend-js-web/misc/svg4everybody.js&/o/frontend-js-web/aui/arraylist-add/arraylist-add.js&/o/frontend-js-web/aui/arraylist-filter/arraylist-filter.js&/o/frontend-js-web/aui/arraylist/arraylist.js&/o/frontend-js-web/aui/array-extras/array-extras.js&/o/frontend-js-web/aui/array-invoke/array-invoke.js&/o/frontend-js-web/aui/attribute-base/attribute-base.js&/o/frontend-js-web/aui/attribute-complex/attribute-complex.js&/o/frontend-js-web/aui/attribute-core/attribute-core.js&/o/frontend-js-web/aui/attribute-observable/attribute-observable.js&/o/frontend-js-web/aui/attribute-extras/attribute-extras.js&/o/frontend-js-web/aui/base-base/base-base.js&/o/frontend-js-web/aui/base-pluginhost/base-pluginhost.js&/o/frontend-js-web/aui/classnamemanager/classnamemanager.js&/o/frontend-js-web/aui/datatype-xml-format/datatype-xml-format.js&/o/frontend-js-web/aui/datatype-xml-parse/datatype-xml-parse.js&/o/frontend-js-web/aui/dom-base/dom-base.js&/o/frontend-js-web/aui/dom-core/dom-core.js&/o/frontend-js-web/aui/dom-screen/dom-screen.js&/o/frontend-js-web/aui/dom-style/dom-style.js&/o/frontend-js-web/aui/event-base/event-base.js&/o/frontend-js-web/aui/event-custom-base/event-custom-base.js&/o/frontend-js-web/aui/event-custom-complex/event-custom-complex.js&/o/frontend-js-web/aui/event-delegate/event-delegate.js&/o/frontend-js-web/aui/event-focus/event-focus.js&/o/frontend-js-web/aui/event-hover/event-hover.js" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=es_ES&b=7110&t=1615230964357&/o/frontend-js-web/aui/event-key/event-key.js&/o/frontend-js-web/aui/event-mouseenter/event-mouseenter.js&/o/frontend-js-web/aui/event-mousewheel/event-mousewheel.js&/o/frontend-js-web/aui/event-outside/event-outside.js&/o/frontend-js-web/aui/event-resize/event-resize.js&/o/frontend-js-web/aui/event-simulate/event-simulate.js&/o/frontend-js-web/aui/event-synthetic/event-synthetic.js&/o/frontend-js-web/aui/intl/intl.js&/o/frontend-js-web/aui/io-base/io-base.js&/o/frontend-js-web/aui/io-form/io-form.js&/o/frontend-js-web/aui/io-queue/io-queue.js&/o/frontend-js-web/aui/io-upload-iframe/io-upload-iframe.js&/o/frontend-js-web/aui/io-xdr/io-xdr.js&/o/frontend-js-web/aui/json-parse/json-parse.js&/o/frontend-js-web/aui/json-stringify/json-stringify.js&/o/frontend-js-web/aui/node-base/node-base.js&/o/frontend-js-web/aui/node-core/node-core.js&/o/frontend-js-web/aui/node-event-delegate/node-event-delegate.js&/o/frontend-js-web/aui/node-event-simulate/node-event-simulate.js&/o/frontend-js-web/aui/node-focusmanager/node-focusmanager.js&/o/frontend-js-web/aui/node-pluginhost/node-pluginhost.js&/o/frontend-js-web/aui/node-screen/node-screen.js&/o/frontend-js-web/aui/node-style/node-style.js&/o/frontend-js-web/aui/oop/oop.js&/o/frontend-js-web/aui/plugin/plugin.js&/o/frontend-js-web/aui/pluginhost-base/pluginhost-base.js&/o/frontend-js-web/aui/pluginhost-config/pluginhost-config.js&/o/frontend-js-web/aui/querystring-stringify-simple/querystring-stringify-simple.js&/o/frontend-js-web/aui/queue-promote/queue-promote.js&/o/frontend-js-web/aui/selector-css2/selector-css2.js&/o/frontend-js-web/aui/selector-css3/selector-css3.js&/o/frontend-js-web/aui/selector-native/selector-native.js&/o/frontend-js-web/aui/selector/selector.js&/o/frontend-js-web/aui/widget-base/widget-base.js&/o/frontend-js-web/aui/widget-htmlparser/widget-htmlparser.js&/o/frontend-js-web/aui/widget-skin/widget-skin.js" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=es_ES&b=7110&t=1615230964357&/o/frontend-js-web/aui/widget-uievents/widget-uievents.js&/o/frontend-js-web/aui/yui-throttle/yui-throttle.js&/o/frontend-js-web/aui/aui-base-core/aui-base-core.js&/o/frontend-js-web/aui/aui-base-lang/aui-base-lang.js&/o/frontend-js-web/aui/aui-classnamemanager/aui-classnamemanager.js&/o/frontend-js-web/aui/aui-component/aui-component.js&/o/frontend-js-web/aui/aui-debounce/aui-debounce.js&/o/frontend-js-web/aui/aui-delayed-task-deprecated/aui-delayed-task-deprecated.js&/o/frontend-js-web/aui/aui-event-base/aui-event-base.js&/o/frontend-js-web/aui/aui-event-input/aui-event-input.js&/o/frontend-js-web/aui/aui-form-validator/aui-form-validator.js&/o/frontend-js-web/aui/aui-node-base/aui-node-base.js&/o/frontend-js-web/aui/aui-node-html5/aui-node-html5.js&/o/frontend-js-web/aui/aui-selector/aui-selector.js&/o/frontend-js-web/aui/aui-timer/aui-timer.js&/o/frontend-js-web/liferay/dependency.js&/o/frontend-js-web/liferay/dom_task_runner.js&/o/frontend-js-web/liferay/events.js&/o/frontend-js-web/liferay/language.js&/o/frontend-js-web/liferay/lazy_load.js&/o/frontend-js-web/liferay/liferay.js&/o/frontend-js-web/liferay/util.js&/o/frontend-js-web/liferay/global.bundle.js&/o/frontend-js-web/liferay/portal.js&/o/frontend-js-web/liferay/portlet.js&/o/frontend-js-web/liferay/workflow.js&/o/frontend-js-web/liferay/address.js&/o/frontend-js-web/liferay/form.js&/o/frontend-js-web/liferay/form_placeholders.js&/o/frontend-js-web/liferay/icon.js&/o/frontend-js-web/liferay/menu.js&/o/frontend-js-web/liferay/notice.js&/o/frontend-js-web/liferay/poller.js&/o/frontend-js-web/aui/async-queue/async-queue.js&/o/frontend-js-web/aui/base-build/base-build.js&/o/frontend-js-web/aui/cookie/cookie.js&/o/frontend-js-web/aui/event-touch/event-touch.js&/o/frontend-js-web/aui/overlay/overlay.js&/o/frontend-js-web/aui/querystring-stringify/querystring-stringify.js&/o/frontend-js-web/aui/widget-child/widget-child.js" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=es_ES&b=7110&t=1615230964357&/o/frontend-js-web/aui/widget-position-align/widget-position-align.js&/o/frontend-js-web/aui/widget-position-constrain/widget-position-constrain.js&/o/frontend-js-web/aui/widget-position/widget-position.js&/o/frontend-js-web/aui/widget-stack/widget-stack.js&/o/frontend-js-web/aui/widget-stdmod/widget-stdmod.js&/o/frontend-js-web/aui/aui-aria/aui-aria.js&/o/frontend-js-web/aui/aui-io-plugin-deprecated/aui-io-plugin-deprecated.js&/o/frontend-js-web/aui/aui-io-request/aui-io-request.js&/o/frontend-js-web/aui/aui-loading-mask-deprecated/aui-loading-mask-deprecated.js&/o/frontend-js-web/aui/aui-overlay-base-deprecated/aui-overlay-base-deprecated.js&/o/frontend-js-web/aui/aui-overlay-context-deprecated/aui-overlay-context-deprecated.js&/o/frontend-js-web/aui/aui-overlay-manager-deprecated/aui-overlay-manager-deprecated.js&/o/frontend-js-web/aui/aui-overlay-mask-deprecated/aui-overlay-mask-deprecated.js&/o/frontend-js-web/aui/aui-parse-content/aui-parse-content.js&/o/frontend-js-web/liferay/layout_exporter.js&/o/frontend-js-web/liferay/session.js&/o/frontend-js-web/liferay/deprecated.js" type="text/javascript"></script>
+<script src="/o/frontend-js-web/loader/config.js" type="text/javascript"></script>
+<script src="/o/frontend-js-web/loader/loader.3.js" type="text/javascript"></script>
+
+
+
+
+	
+
+	<script data-senna-track="temporary" src="/o/js_bundle_config?t=1615611746136" type="text/javascript"></script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+	
+		
+
+			
+
+			
+				<script data-senna-track="permanent" id="googleAnalyticsScript" type="text/javascript">
+					(function(i, s, o, g, r, a, m) {
+						i['GoogleAnalyticsObject'] = r;
+
+						i[r] = i[r] || function() {
+							var arrayValue = i[r].q || [];
+
+							i[r].q = arrayValue;
+
+							(i[r].q).push(arguments);
+						};
+
+						i[r].l = 1 * new Date();
+
+						a = s.createElement(o);
+						m = s.getElementsByTagName(o)[0];
+						a.async = 1;
+						a.src = g;
+						m.parentNode.insertBefore(a, m);
+					})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+					
+
+					
+						
+							ga('create', 'UA-87670775-1', 'auto');
+						
+					
+
+					
+
+					
+
+					ga('send', 'pageview');
+
+					
+						Liferay.on(
+							'endNavigate',
+							function(event) {
+								ga('set', 'page', event.path);
+								ga('send', 'pageview');
+							}
+						);
+					
+				</script>
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.asturias.es/o/webasturias-theme/css/main.css?browserId=other&amp;themeId=webasturias_WAR_webasturiastheme&amp;minifierType=css&amp;languageId=es_ES&amp;b=7110&amp;t=1615231036000" id="liferayThemeCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43_ .portlet-content {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3_ .portlet-content {
+
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02_ .portlet-content {
+
+}
+#wrapper header .contenido-header {
+    float: none !important;
+}
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-spa-web@2.0.38/liferay/init.es', function(frontendJsSpaWeb2038LiferayInitEs) {
+(function(){
+var frontendJsSpaWebLiferayInitEs = frontendJsSpaWeb2038LiferayInitEs;
+(function() {var $ = AUI.$;var _ = AUI._;
+
+Liferay.SPA = Liferay.SPA || {};
+Liferay.SPA.cacheExpirationTime = -1;
+Liferay.SPA.clearScreensCache = true;
+Liferay.SPA.debugEnabled = false;
+Liferay.SPA.excludedPaths = ["/c/document_library","/documents","/image"];
+Liferay.SPA.loginRedirect = '';
+Liferay.SPA.navigationExceptionSelectors = ':not([target="_blank"]):not([data-senna-off]):not([data-resource-href]):not([data-cke-saved-href]):not([data-cke-saved-href])';
+Liferay.SPA.requestTimeout = 0;
+Liferay.SPA.userNotification = {
+	message: 'Parece que esto está tardando más de lo esperado.',
+	timeout: 30000,
+	title: 'Vaya'
+};
+
+frontendJsSpaWebLiferayInitEs.default.init(
+	function(app) {
+		app.setPortletsBlacklist({"com_liferay_site_navigation_directory_web_portlet_SitesDirectoryPortlet":true,"com_liferay_nested_portlets_web_portlet_NestedPortletsPortlet":true,"pa_webasturias_tiempo_portlet_web_ElTiempoPortlet":true,"com_liferay_login_web_portlet_LoginPortlet":true,"com_liferay_login_web_portlet_FastLoginPortlet":true});
+		app.setValidStatusCodes([221,490,494,499,491,492,493,495,220]);
+	}
+);})();})();
+},
+function(error) {
+console.error(error);
+});
+// ]]>
+</script><link data-senna-track="permanent" href="https://www.asturias.es/combo?browserId=other&minifierType=css&languageId=es_ES&b=7110&t=1615230963038&/o/product-navigation-simulation-theme-contributor/css/simulation_panel.css&/o/product-navigation-product-menu-theme-contributor/product_navigation_product_menu.css&/o/product-navigation-control-menu-theme-contributor/product_navigation_control_menu.css" rel="stylesheet" type = "text/css" />
+<script data-senna-track="permanent" src="https://www.asturias.es/combo?browserId=other&minifierType=js&languageId=es_ES&b=7110&t=1615230963038&/o/product-navigation-control-menu-theme-contributor/product_navigation_control_menu.js" type = "text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					page: event.page - 1
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					page: event.page - 1
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+	
+		<script src="https://www.asturias.es/o/webasturias-theme/js/cookies-adv.js" type="text/javascript"></script>
+</head>
+
+
+	<body class=" controls-visible  yui3-skin-sam guest-site signed-out public-page site body-caja">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav class="quick-access-nav" id="zwwf_quickAccessNav">
+		<h1 class="hide-accessible">Navegación</h1>
+
+		<ul>
+			
+				<li><a href="#main-content">Saltar al contenido</a></li>
+			
+
+			
+
+		</ul>
+	</nav>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="application_body" id="wrapper">
+
+		    <header class="container-fluid">
+
+	<div class="contenido-header">      
+      <div class="header-superior">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Lista enlaces superiores</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="LISTA_ENLACES_SUPERIORES" data-analytics-asset-title="Lista enlaces superiores" data-analytics-asset-type="web-content">
+	
+
+	<ul>
+	<li><a accesskey="1" href="/" title="Ir a la página de inicio del Gobierno del Principado de Asturias">I</a><a href="/web/asturias/inicio" target="">nicio</a></li>
+	<li><a accesskey="3" href="/web/asturias/accesibilidad" target="" title="Más información sobre  Accesibilidad">Accesibilidad</a></li>
+	<li><a accesskey="4" href="/web/asturias/contacta-con-nosotros" target="" title="Más información sobre  Contacta con nosotros">Contacta con nosotros</a></li>
+	<li><a accesskey="5" href="/web/asturias/direcciones-y-telefonos" target="" title="Más información sobre Direcciones y Teléfonos">Direcciones y Teléfonos</a></li>
+	<li><a accesskey="6" href="/web/asturias/contenido-de-la-web" target="" title="Más información sobre  Contenido de la web">Contenido de la web</a></li>
+</ul>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+             
+      </div>
+    	<div class="contenedor-imagen-cabecera">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Imagen cabecera</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="IMAGEN_CABECERA" data-analytics-asset-title="Imagen cabecera" data-analytics-asset-type="web-content">
+	
+
+		<h1 style="display: none;">ARTICULOS ENCONTRADOS PARA LA CATEGORIA: 556463</h1>
+		<h1 style="display: none;">ARTICULOS ENCONTRADOS PARA el groupId: 217090</h1>
+			<h1 style="display: none;">ARTICULOS ENCONTRADOS PARA LA ddmStructure.getStructureId(): 571782</h1>
+			
+			<h1 style="display: none;">NUMERO DE ARTICULOS ENCONTRADOS: 1</h1>
+	<ul style="display: none;">
+    	    <li>2619287</li>
+	</ul>
+	
+
+
+         <picture data-fileentryid="569361"><source media="(max-width:300px)" srcset="/o/adaptive-media/image/569361/Thumbnail-300x300/cab_007_es.jpg?t=1606826800064" /><source media="(max-width:861px) and (min-width:300px)" srcset="/o/adaptive-media/image/569361/Preview-1000x0/cab_007_es.jpg?t=1606826800064" /><picture data-fileentryid="569361"><source media="(max-width:300px)" srcset="/o/adaptive-media/image/569361/Thumbnail-300x300/cab_007_es.jpg?t=1606826800064" /><source media="(max-width:861px) and (min-width:300px)" srcset="/o/adaptive-media/image/569361/Preview-1000x0/cab_007_es.jpg?t=1606826800064" /><img alt="Palacio de Congresos. Oviedo " data-fileentryid="569361" src="/documents/217090/556342/cab_007_es.jpg/744a63c8-b99b-fff2-a296-beb90087de62?t=1606826800064" /></picture></picture> 
+
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+                  
+      </div>
+    	<div class="row logo-search">
+          <div class="contenedor-logo col-md-8">
+              <div class="logo">
+                  <h1><a href="https://www.asturias.es" title="www.asturias.es"><img alt="Logo - Gobierno del Principado de Asturias" height="64" src="/image/layout_set_logo?img_id=916730&amp;t=1615612281060" /></a></h1>
+              </div>
+        	</div>     
+          <div class="search col-md-4">    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_  portlet-static portlet-static-end portlet-barebone  " id="p_p_id_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_" >
+		<span id="p_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Buscador Webasturias mini</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+<div class="search-form search-form-normal">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://www.asturias.es/buscador?p_p_id=pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini&amp;p_p_lifecycle=0" class="form  " data-fm-namespace="_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_" id="_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_buscador" method="get" name="_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_buscador" >
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_formDate"    name="_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_formDate"     type="hidden" value="1615645388109"   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+		<div class="form-group mx-sm-3">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="form-group input-text-wrapper">
+
+
+
+
+
+	<label class="control-label" for="p_r_p_searchText">
+		
+				Texto
+			</label>
+		
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="p_r_p_searchText"    name="p_r_p_searchText"     type="text" value=""   />
+			
+		
+
+		
+	
+
+
+
+
+
+	
+
+
+
+	</div>
+
+
+
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<button
+			class="btn  btn-primary btn-default"
+
+			
+
+			id="_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_zjsv"
+
+			
+
+			
+
+			type="submit"
+
+			
+			
+		>
+	
+
+
+
+
+
+	<span class="lfr-btn-label">Buscar</span>
+
+
+
+
+
+	
+		</button>
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+</form>
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+AUI().use('liferay-form', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	Liferay.Form.register(
+		{
+			id: '_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_buscador'
+
+			
+				, fieldRules: [
+
+					
+
+				]
+			
+
+			
+
+			, validateOnBlur: true
+		}
+	);
+
+	var onDestroyPortlet = function(event) {
+		if (event.portletId === 'pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini') {
+			delete Liferay.Form._INSTANCES['_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_buscador'];
+		}
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	
+
+	Liferay.fire(
+		'_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_formReady',
+		{
+			formName: '_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_buscador'
+		}
+	);
+})();});
+// ]]>
+</script>
+</div>
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+                             
+          </div>         
+    	</div>
+		
+	<div class="contenedor-language">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet_  portlet-static portlet-static-end portlet-decorate portlet-language " id="p_p_id_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet_" >
+		<span id="p_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Selector de idioma</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<style>
+	.language-entry-long-text {
+		display: inline-block;
+		padding: 0 0.5em;
+	}
+</style>
+<style>
+	.language-entry-long-text {
+		display: inline-block;
+		padding: 0 0.5em;
+	}
+</style>
+
+<a href="/c/portal/update_language?p_l_id=572298&amp;redirect=%2F&amp;languageId=ast_ES" class="language-entry-long-text" lang="ast-ES" >asturianu</a>
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+	</div>
+</div>  
+		    </header>
+
+			<div class="container-fluid">				
+		        <div id="contenido">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="home" id="main-content" role="main">
+	<div class="portlet-layout row">
+		<div class="col-md-12 portlet-column portlet-column-only" id="column-1">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">AVISO_HOME_WEBASTURIAS</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="2667928" data-analytics-asset-title="AVISO_HOME_WEBASTURIAS" data-analytics-asset-type="web-content">
+	
+
+	
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+		</div>
+	</div>
+	<div class="portlet-layout row">
+		<div class="col-md-8">
+			<div class="card flex-md-row mb-4 box-shadow h-md-250">
+              	<div class="card-body d-flex flex-column align-items-start">         
+              		<h2 class="mb-0">¿Qué quieres hacer <span>en Asturias</span>?</h2> 
+                  	<div class="outer portlet-column portlet-column-first" id="column-2"> 
+						<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_column-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_  portlet-static portlet-static-end portlet-decorate portlet-asset-publisher " id="p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3_" >
+		<span id="p_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Publicador de contenidos</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mb-4 subscribe-action">
+	
+
+	
+</div>
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	               
+	<div class="navigation-pills col-md-12"> 
+  		<div class="row" role="tabpanel">
+      		<div class="col-sm-3">
+              	<ul class="nav nav-pills brand-pills nav-stacked" role="tablist">
+								<li role="presentation" class="brand-nav">
+									<a href="#tab1" class="active" 
+										aria-controls="tab1" role="tab" data-toggle="tab">Vivir</a>
+								</li>
+								   
+								<li role="presentation" class="brand-nav">
+									<a href="#tab2" class="" 
+										aria-controls="tab2" role="tab" data-toggle="tab">Disfrutar</a>
+								</li>
+								   
+								<li role="presentation" class="brand-nav">
+									<a href="#tab3" class="" 
+										aria-controls="tab3" role="tab" data-toggle="tab">Estudiar</a>
+								</li>
+								   
+								<li role="presentation" class="brand-nav">
+									<a href="#tab4" class="" 
+										aria-controls="tab4" role="tab" data-toggle="tab">Trabajar</a>
+								</li>
+								   
+		        </ul>
+		    </div>  
+		    <div class="col-sm-9">
+            	<div class="tab-content">
+			        	<div role="tabpanel" class="tab-pane active" id="tab1">  
+			        		<div class="contenido-tabpane">
+                            	<ul class="row">
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Actividades culturales"
+														href="https://www.asturias.es/caracteristica/-/categories/605617?p_r_p_categoryId=605617" >Actividades culturales</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Comprar o alquilar"
+														href="https://www.asturias.es/caracteristica/-/categories/606636?p_r_p_categoryId=606636" >Comprar o alquilar</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Cuidar tu salud"
+														href="https://www.asturias.es/caracteristica/-/categories/574704?p_r_p_categoryId=574704" >Cuidar tu salud</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Hacer deporte"
+														href="https://www.asturias.es/caracteristica/-/categories/574761?p_r_p_categoryId=574761" >Hacer deporte</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Servicios tributarios"
+														href="https://www.asturias.es/caracteristica/-/categories/574786?p_r_p_categoryId=574786" >Servicios tributarios</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Muévete por Asturias"
+														href="https://www.asturias.es/caracteristica/-/categories/607718?p_r_p_categoryId=607718" >Muévete por Asturias</a>
+												</li>				                               		
+					           </ul> 
+							</div>
+							
+									
+									
+								
+								<div class="link-more">
+									<a class="more-information" href="https://www.asturias.es/caracteristica/-/categories/572263?p_r_p_categoryId=572263">Todo sobre Vivir en Asturias</a>
+								</div>
+								
+			            </div>
+			        	<div role="tabpanel" class="tab-pane " id="tab2">  
+			        		<div class="contenido-tabpane">
+                            	<ul class="row">
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Comer y beber"
+														href="https://www.asturias.es/caracteristica/-/categories/574613?p_r_p_categoryId=574613" >Comer y beber</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Cómo llegar"
+														href="https://www.asturias.es/caracteristica/-/categories/607703?p_r_p_categoryId=607703" >Cómo llegar</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Dónde dormir"
+														href="https://www.asturias.es/caracteristica/-/categories/608224?p_r_p_categoryId=608224" >Dónde dormir</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Historia y datos"
+														href="https://www.asturias.es/caracteristica/-/categories/574807?p_r_p_categoryId=574807" >Historia y datos</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Qué visitar"
+														href="https://www.asturias.es/caracteristica/-/categories/605620?p_r_p_categoryId=605620" >Qué visitar</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Rutas"
+														href="https://www.asturias.es/caracteristica/-/categories/610924?p_r_p_categoryId=610924" >Rutas</a>
+												</li>				                               		
+					           </ul> 
+							</div>
+							
+									
+									
+								
+								<div class="link-more">
+									<a class="more-information" href="https://www.asturias.es/caracteristica/-/categories/572254?p_r_p_categoryId=572254">Todo sobre Disfrutar Asturias</a>
+								</div>
+								
+			            </div>
+			        	<div role="tabpanel" class="tab-pane " id="tab3">  
+			        		<div class="contenido-tabpane">
+                            	<ul class="row">
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Buscar centros"
+														href="https://www.asturias.es/caracteristica/-/categories/574492?p_r_p_categoryId=574492" >Buscar centros</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Formación profesional"
+														href="https://www.asturias.es/caracteristica/-/categories/574504?p_r_p_categoryId=574504" >Formación profesional</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Ir a la Universidad"
+														href="https://www.asturias.es/caracteristica/-/categories/574510?p_r_p_categoryId=574510" >Ir a la Universidad</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Pedir una beca"
+														href="https://www.asturias.es/caracteristica/-/categories/574513?p_r_p_categoryId=574513" >Pedir una beca</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Planes de apoyo"
+														href="https://www.asturias.es/caracteristica/-/categories/574519?p_r_p_categoryId=574519" >Planes de apoyo</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Profesorado"
+														href="https://www.asturias.es/caracteristica/-/categories/574525?p_r_p_categoryId=574525" >Profesorado</a>
+												</li>				                               		
+					           </ul> 
+							</div>
+							
+									
+									
+								
+								<div class="link-more">
+									<a class="more-information" href="https://www.asturias.es/caracteristica/-/categories/572257?p_r_p_categoryId=572257">Todo sobre Estudiar en Asturias</a>
+								</div>
+								
+			            </div>
+			        	<div role="tabpanel" class="tab-pane " id="tab4">  
+			        		<div class="contenido-tabpane">
+                            	<ul class="row">
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Bolsas de trabajo"
+														href="https://www.asturias.es/caracteristica/-/categories/606993?p_r_p_categoryId=606993" >Bolsas de trabajo</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Buscar empleo"
+														href="https://www.asturias.es/caracteristica/-/categories/574407?p_r_p_categoryId=574407" >Buscar empleo</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Con discapacidad"
+														href="https://www.asturias.es/caracteristica/-/categories/574410?p_r_p_categoryId=574410" >Con discapacidad</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Estar en paro"
+														href="https://www.asturias.es/caracteristica/-/categories/574413?p_r_p_categoryId=574413" >Estar en paro</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Formarse"
+														href="https://www.asturias.es/caracteristica/-/categories/574419?p_r_p_categoryId=574419" >Formarse</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Hacer oposiciones"
+														href="https://www.asturias.es/caracteristica/-/categories/574827?p_r_p_categoryId=574827" >Hacer oposiciones</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Mercado laboral"
+														href="https://www.asturias.es/caracteristica/-/categories/574422?p_r_p_categoryId=574422" >Mercado laboral</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Ser autónomo"
+														href="https://www.asturias.es/caracteristica/-/categories/574428?p_r_p_categoryId=574428" >Ser autónomo</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Convenios colectivos"
+														href="https://www.asturias.es/caracteristica/-/categories/607999?p_r_p_categoryId=607999" >Convenios colectivos</a>
+												</li>				                               		
+												
+												
+																							
+												<li class="col-sm-6">
+													<a title=" Seguridad laboral"
+														href="https://www.asturias.es/caracteristica/-/categories/612290?p_r_p_categoryId=612290" >Seguridad laboral</a>
+												</li>				                               		
+					           </ul> 
+							</div>
+							
+									
+									
+								
+								<div class="link-more">
+									<a class="more-information" href="https://www.asturias.es/caracteristica/-/categories/572260?p_r_p_categoryId=572260">Todo sobre Trabajar en Asturias</a>
+								</div>
+								
+			            </div>
+				</div>
+			</div>
+        </div>
+    </div> 
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_  portlet-static portlet-static-end portlet-decorate portlet-asset-publisher " id="p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr_" >
+		<span id="p_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Publicador de contenidos</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mb-4 subscribe-action">
+	
+
+	
+</div>
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	        
+	<div class="contenido-box"> 
+	  	<h3 class="title">Destacamos</h3>  
+		<div id="carouselDestacamos" class="carousel slide" data-ride="carousel">
+					
+			<ol class="carousel-indicators">
+					<li class="active" data-slide-to="0" data-target='#carrusel-destacados'></li>
+					<li class="" data-slide-to="1" data-target='#carrusel-destacados'></li>
+					<li class="" data-slide-to="2" data-target='#carrusel-destacados'></li>
+			</ol>
+			       			
+	        <div class="carousel-inner no-padding my-5">
+	        		<div class="carousel-item active ">
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="Oficinas de Registro" href="https://www.asturias.es/web/asturias/oficinas-de-registro">
+		<picture data-fileentryid="924623"><source media="(max-width:84px)" srcset="/o/adaptive-media/image/924623/Preview-1000x0/20210311_oficina_registro.jpg?t=1615479917468" /><source media="(max-width:84px) and (min-width:84px)" srcset="/o/adaptive-media/image/924623/Thumbnail-300x300/20210311_oficina_registro.jpg?t=1615479917468" /><img data-fileentryid="924623" alt="" src="/documents/571956/924513/20210311_oficina_registro.jpg/60eedd20-b916-fde4-6a0f-266442ba9485?t=1615479917468" /></picture>			 		                        
+    <span>Oficinas de Registro</span>
+</a>
+		                	</div>						         		
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="Portal emigrAstur" href="https://www.asturias.es/general/-/categories/573113?p_r_p_categoryId=573113">
+		<picture data-fileentryid="913518"><source media="(max-width:115px)" srcset="/o/adaptive-media/image/913518/Preview-1000x0/20210308_emigrastur.jpg?t=1615189506611" /><source media="(max-width:115px) and (min-width:115px)" srcset="/o/adaptive-media/image/913518/Thumbnail-300x300/20210308_emigrastur.jpg?t=1615189506611" /><img data-fileentryid="913518" alt="" src="/documents/571956/913517/20210308_emigrastur.jpg/ae394a1c-11c5-c25a-e716-52d2b4e76def?t=1615189506611" /></picture>			 		                        
+    <span>Portal emigrAstur</span>
+</a>
+		                	</div>						         		
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="Cita previa para acudir al registro" href="https://www.asturias.es/documents/217090/797301/datos_registro_solicitud_cita_previa.pdf/d69f7f34-d454-b68e-7e3d-0a9f54088c19?t=1614600897735">
+		<picture data-fileentryid="556693"><source media="(max-width:113px)" srcset="/o/adaptive-media/image/556693/Preview-1000x0/logo_gobierno.jpg?t=1606825371938" /><source media="(max-width:113px) and (min-width:113px)" srcset="/o/adaptive-media/image/556693/Thumbnail-300x300/logo_gobierno.jpg?t=1606825371938" /><img data-fileentryid="556693" alt="" src="/documents/217090/556015/logo_gobierno.jpg/28a44ff8-7cdf-5475-9a82-b793b934b969?t=1606825371938" /></picture>			 		                        
+    <span>Cita previa para acudir al registro</span>
+</a>
+		                	</div>						         		
+		         	</div> 		
+	        		<div class="carousel-item  ">
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="ERTE tras Real Decreto-Ley 2/2021" href="https://www.asturias.es/documents/217090/797301/NOTA+INFORMATIVA+ERTES+FM+19012021.pdf/f4a7e10e-3629-0413-a4cf-4c3e8e856dc6?t=1611074217530">
+		<picture data-fileentryid="556651"><source media="(max-width:112px)" srcset="/o/adaptive-media/image/556651/Preview-1000x0/erte_copy.jpg?t=1606825371313" /><source media="(max-width:112px) and (min-width:112px)" srcset="/o/adaptive-media/image/556651/Thumbnail-300x300/erte_copy.jpg?t=1606825371313" /><img data-fileentryid="556651" alt="ERTE por COVID-19" src="/documents/217090/556015/erte_copy.jpg/fc7723f6-3a5f-d2ad-8500-de1cea3774ec?t=1606825371313" /></picture>			 		                        
+    <span>ERTE tras Real Decreto-Ley 2/2021</span>
+</a>
+		                	</div>						         		
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="Acceso al portal temático sobre actualidad coronavirus (COVID-19)" href="https://coronavirus.asturias.es/inicio">
+		<picture data-fileentryid="809798"><source media="(max-width:112px)" srcset="/o/adaptive-media/image/809798/Preview-1000x0/covid-colores-3.jpg?t=1611650573482" /><source media="(max-width:112px) and (min-width:112px)" srcset="/o/adaptive-media/image/809798/Thumbnail-300x300/covid-colores-3.jpg?t=1611650573482" /><img data-fileentryid="809798" alt="" src="/documents/217090/556015/covid-colores-3.jpg/2d7cd097-2085-4193-9d9d-5e8001608bff?t=1611650573482" /></picture>			 		                        
+    <span>Portal Coronavirus</span>
+</a>
+		                	</div>						         		
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="Indicadores de la Agenda 2030" href="https://sadeiasturias.github.io/indicadores-ods-asturias/">
+		<picture data-fileentryid="556579"><source media="(max-width:85px)" srcset="/o/adaptive-media/image/556579/Preview-1000x0/banner_wheel_transparent.jpg?t=1606825370189" /><source media="(max-width:85px) and (min-width:85px)" srcset="/o/adaptive-media/image/556579/Thumbnail-300x300/banner_wheel_transparent.jpg?t=1606825370189" /><img data-fileentryid="556579" alt="" src="/documents/217090/556015/banner_wheel_transparent.jpg/e00f36c6-f949-8605-09cd-00d4fce21b71?t=1606825370189" /></picture>			 		                        
+    <span>Indicadores de la Agenda 2030</span>
+</a>
+		                	</div>						         		
+		         	</div> 		
+	        		<div class="carousel-item  ">
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="Avisos sobre nidos de avispa asiática" href="/portal/site/webasturias/menuitem.4b280f8214549ead3e2d6f77f2300030/?vgnextoid=314d38879485a410VgnVCM10000098030a0aRCRD&vgnextchannel=de337e1385dfe210VgnVCM10000097030a0aRCRD&i18n.http.lang=es,">
+		<picture data-fileentryid="556717"><source media="(max-width:113px)" srcset="/o/adaptive-media/image/556717/Preview-1000x0/banner_abeja.JPG?t=1606825372274" /><source media="(max-width:113px) and (min-width:113px)" srcset="/o/adaptive-media/image/556717/Thumbnail-300x300/banner_abeja.JPG?t=1606825372274" /><img data-fileentryid="556717" alt="" src="/documents/217090/556015/banner_abeja.JPG/ed91d417-1d57-0c39-45aa-bedcf7fe07b5?t=1606825372274" /></picture>			 		                        
+    <span>Avisos sobre nidos de avispa asiática</span>
+</a>
+		                	</div>						         		
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="AsturiasParticipa (consulta pública previa y audiencia e información pública)" href="http://www.asturiasparticipa.es/?page_id=4">
+		<picture data-fileentryid="556705"><source media="(max-width:113px)" srcset="/o/adaptive-media/image/556705/Preview-1000x0/banner_asturias_participa.jpg?t=1606825372091" /><source media="(max-width:113px) and (min-width:113px)" srcset="/o/adaptive-media/image/556705/Thumbnail-300x300/banner_asturias_participa.jpg?t=1606825372091" /><img data-fileentryid="556705" alt="Logo del portal Asturias Participa" src="/documents/217090/556015/banner_asturias_participa.jpg/b3c2f94f-8a26-e5a7-d49b-9e33c1b89637?t=1606825372091" /></picture>			 		                        
+    <span>AsturiasParticipa (consulta pública previa y audiencia e información pública)</span>
+</a>
+		                	</div>						         		
+		            		<div class="col-xs-4 col-sm-4 col-md-4">
+		                		
+<a title="COVID-19 Asturias en datos" href="http://run.gob.es/coronavirus-asturias-en-datos">
+		<picture data-fileentryid="556615"><source media="(max-width:90px)" srcset="/o/adaptive-media/image/556615/Preview-1000x0/banner_portal_coronavirus.jpg?t=1606825370736" /><source media="(max-width:90px) and (min-width:90px)" srcset="/o/adaptive-media/image/556615/Thumbnail-300x300/banner_portal_coronavirus.jpg?t=1606825370736" /><img data-fileentryid="556615" alt="" src="/documents/217090/556015/banner_portal_coronavirus.jpg/8f6cda8d-c3e2-b76e-c11f-661bf6ddfffe?t=1606825370736" /></picture>			 		                        
+    <span>COVID-19 Asturias en datos</span>
+</a>
+		                	</div>						         		
+		         	</div> 		
+     	 	</div>
+               	  	
+			<a class="carousel-control-prev" href="#carouselDestacamos" data-slide="prev"><span class="carousel-control-prev-icon sp"></span></a>
+	      	<a class="carousel-control-next" href="#carouselDestacamos" data-slide="next"><span class="carousel-control-next-icon sp"></span></a>
+		</div>
+	</div>
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_  portlet-static portlet-static-end portlet-decorate portlet-asset-publisher " id="p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB_" >
+		<span id="p_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Publicador de contenidos</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mb-4 subscribe-action">
+	
+
+	
+</div>
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+    	             
+	<div class="contenido-box">    
+		<h3 class="title">Temas</h3> 		
+    	<ul class="row">  
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Salud"
+                       			href="https://www.asturias.es/general/-/categories/572320?p_r_p_categoryId=572320" >Salud</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Consumo"
+                       			href="https://www.asturias.es/general/-/categories/573094?p_r_p_categoryId=573094" >Consumo</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Europa"
+                       			href="https://www.asturias.es/general/-/categories/572407?p_r_p_categoryId=572407" >Europa</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Medio ambiente"
+                       			href="https://www.asturias.es/general/-/categories/572344?p_r_p_categoryId=572344" >Medio ambiente</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Empleo"
+                       			href="https://www.asturias.es/general/-/categories/572578?p_r_p_categoryId=572578" >Empleo</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Vivienda"
+                       			href="https://www.asturias.es/general/-/categories/573097?p_r_p_categoryId=573097" >Vivienda</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Cultura"
+                       			href="https://www.asturias.es/general/-/categories/572465?p_r_p_categoryId=572465" >Cultura</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Infraestructuras y territorio"
+                       			href="https://www.asturias.es/general/-/categories/572499?p_r_p_categoryId=572499" >Infraestructuras y territorio</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Educación"
+                       			href="https://www.asturias.es/general/-/categories/572620?p_r_p_categoryId=572620" >Educación</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Ganadería"
+                       			href="https://www.asturias.es/general/-/categories/573100?p_r_p_categoryId=573100" >Ganadería</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Transportes y Movilidad"
+                       			href="https://www.asturias.es/general/-/categories/573103?p_r_p_categoryId=573103" >Transportes y Movilidad</a></li>
+																
+				
+						
+
+								
+				      	<li class="col-sm-4"><a title=" Servicios sociales"
+                       			href="https://www.asturias.es/general/-/categories/572323?p_r_p_categoryId=572323" >Servicios sociales</a></li>
+		</ul> 
+               
+						
+	            
+	                 	
+		        <div class="link-more">
+	   				<a class="more-information" title="Ver toda la informaci&oacute;n sobre Temas"
+	   					href="https://www.asturias.es/temas/-/categories/556466?p_r_p_categoryId=556466" >M&aacute;s Temas</a>
+	   			</div>	   
+    </div>		 
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_  portlet-static portlet-static-end portlet-decorate portlet-asset-publisher " id="p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo_" >
+		<span id="p_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Publicador de contenidos</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mb-4 subscribe-action">
+	
+
+	
+</div>
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="contenido-box"> 
+		<h3 class="title">Para ti</h3>   		
+    	                
+							
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  DISCAPACITADOS"
+                       			href="https://www.asturias.es/general/-/categories/573110?p_r_p_categoryId=573110" >
+                       				<picture data-fileentryid="570533"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/570533/Preview-1000x0/foto-discapacitados-home.jpg?t=1606826824315" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/570533/Thumbnail-300x300/foto-discapacitados-home.jpg?t=1606826824315" /><img data-fileentryid="570533" alt="DISCAPACITADOS" src="/documents/217090/556336/foto-discapacitados-home.jpg/5378412c-9568-c4d6-7d71-bc9025bfe1f6?t=1606826824315" /></picture>       
+
+                       			<span>Personas con discapacidad</span></a>
+                       	</div>
+			               
+    	                
+							
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  EMIGRANTES"
+                       			href="https://www.asturias.es/general/-/categories/573113?p_r_p_categoryId=573113" >
+                       				<picture data-fileentryid="569859"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/569859/Preview-1000x0/foto-emigrantes-home.jpg?t=1606826809689" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/569859/Thumbnail-300x300/foto-emigrantes-home.jpg?t=1606826809689" /><img data-fileentryid="569859" alt="Emigrantes" src="/documents/217090/556336/foto-emigrantes-home.jpg/a0ffa26f-2b2f-183d-9155-bc13dc927d1c?t=1606826809689" /></picture>       
+
+                       			<span>Emigrantes</span></a>
+                       	</div>
+			               
+    	                
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  JÓVENES"
+                       			href="https://juventud.asturias.es/inicio" >
+                       				<picture data-fileentryid="570195"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/570195/Preview-1000x0/foto-jovenes-home.jpg?t=1606826817195" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/570195/Thumbnail-300x300/foto-jovenes-home.jpg?t=1606826817195" /><img data-fileentryid="570195" alt="JÓVENES" src="/documents/217090/556336/foto-jovenes-home.jpg/4d51ac01-0ae0-baac-683b-f815e39bcd9c?t=1606826817195" /></picture>       
+
+                       			<span>Jóvenes</span></a>
+                       	</div>
+			               
+    	                
+							
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  MAYORES"
+                       			href="https://www.asturias.es/general/-/categories/573116?p_r_p_categoryId=573116" >
+                       				<picture data-fileentryid="570351"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/570351/Preview-1000x0/foto-mayores-home.jpg?t=1606826820352" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/570351/Thumbnail-300x300/foto-mayores-home.jpg?t=1606826820352" /><img data-fileentryid="570351" alt="MAYORES" src="/documents/217090/556336/foto-mayores-home.jpg/8782279f-952d-62cc-34c3-2edb24720102?t=1606826820352" /></picture>       
+
+                       			<span>Mayores</span></a>
+                       	</div>
+			               
+    	                
+							
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  FAMILIAS"
+                       			href="https://www.asturias.es/general/-/categories/573119?p_r_p_categoryId=573119" >
+                       				<picture data-fileentryid="570165"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/570165/Preview-1000x0/foto-ninios-home.jpg?t=1606826816787" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/570165/Thumbnail-300x300/foto-ninios-home.jpg?t=1606826816787" /><img data-fileentryid="570165" alt="Familias" src="/documents/217090/556336/foto-ninios-home.jpg/bd497620-fc3b-e807-e3f8-c14e41dac8bb?t=1606826816787" /></picture>       
+
+                       			<span>Infancia y Familias</span></a>
+                       	</div>
+			               
+    	                
+							
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  MUJERES"
+                       			href="https://www.asturias.es/general/-/categories/572656?p_r_p_categoryId=572656" >
+                       				<picture data-fileentryid="570429"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/570429/Preview-1000x0/foto-mujeres-home.jpg?t=1606826821775" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/570429/Thumbnail-300x300/foto-mujeres-home.jpg?t=1606826821775" /><img data-fileentryid="570429" alt="MUJER" src="/documents/217090/556336/foto-mujeres-home.jpg/8ffd4da4-84c6-3ccb-44ea-1fdc51398840?t=1606826821775" /></picture>       
+
+                       			<span>Mujeres</span></a>
+                       	</div>
+			               
+    	                
+							
+	                 	
+						
+						<div class="bloque-imagen-enlace">		
+				      		<a title="M&aacute;s opciones de  Personas emprendedoras"
+                       			href="https://www.asturias.es/general/-/categories/572431?p_r_p_categoryId=572431" >
+                       				<picture data-fileentryid="570539"><source media="(max-width:56px)" srcset="/o/adaptive-media/image/570539/Preview-1000x0/foto-emprendedores-home.jpg?t=1606826824482" /><source media="(max-width:56px) and (min-width:56px)" srcset="/o/adaptive-media/image/570539/Thumbnail-300x300/foto-emprendedores-home.jpg?t=1606826824482" /><img data-fileentryid="570539" alt="Emprendedores" src="/documents/217090/556030/foto-emprendedores-home.jpg/0de4ba47-0e94-33c4-c88c-45b5abd5721d?t=1606826824482" /></picture>       
+
+                       			<span>Personas emprendedoras</span></a>
+                       	</div>
+			               
+    </div>		 
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+                <div class="col-md-6 portlet-column portlet-column-first" id="column-3">
+                	<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_column-3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_  portlet-static portlet-static-end portlet-decorate portlet-asset-publisher " id="p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU_" >
+		<span id="p_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Publicador de contenidos</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mb-4 subscribe-action">
+	
+
+	
+</div>
+
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<div class="card flex-md-row mb-4 box-shadow h-md-250">
+	<div class="card-body d-flex flex-column align-items-start">        
+		<h2 class="mb-0">Informaci&oacute;n municipal</h3> 
+		<div class="outer">                       
+	<ul>  
+
+
+
+	
+
+
+	<li><a title=" Agenda de eventos de la semana"
+		href="https://www.asturias.es/agenda/-/categories/573147?p_r_p_categoryId=573147" >Agenda de eventos de la semana</a></li>   
+
+
+	
+
+
+	<li><a title=" Tu Ayuntamiento"
+		href="https://www.asturias.es/caracteristica/-/categories/573162?p_r_p_categoryId=573162" >Tu Ayuntamiento</a></li>   
+
+
+	
+
+
+	<li><a title=" Convocatorias, cursos, subvenciones..."
+		href="https://www.asturias.es/caracteristica/-/categories/573629?p_r_p_categoryId=573629" >Convocatorias, cursos, subvenciones...</a></li>   
+	</ul> 
+
+
+
+	
+	<div class="link-more">
+		<a class="more-information" title="Ver toda la informaci&oacute;n sobre Información"
+		href="https://www.asturias.es/caracteristica/-/categories/573144?p_r_p_categoryId=573144" >M&aacute;s Información</a>
+	</div>     
+
+</div>  
+</div>                              
+</div>
+
+
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+                </div>
+                <div class="col-md-6 portlet-column portlet-column-last" id="column-4">
+                	<div class="portlet-dropzone portlet-column-content portlet-column-content-last" id="layout-column_column-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">El Tiempo</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="71139" data-analytics-asset-title="El Tiempo" data-analytics-asset-type="web-content">
+	
+
+	<div class="card flex-md-row mb-4 box-shadow h-md-250">
+<div class="card-body d-flex flex-column align-items-start">
+<h2 class="mb-0">El Tiempo</h2>
+
+<div class="outer">
+<div class="contenido-box eltiempo-portada">
+<div class="eltiempo-portada-script"><iframe frameborder="0" height="200" id="iframe_aemet_id33044" name="iframe_aemet_id33044" scrolling="no" src="https://www.aemet.es/es/eltiempo/prediccion/municipios/mostrarwidget/oviedo-id33044?w=g1p11110000ohmffffffw300z200x4f86d9t95b6e9" tabindex="0" width="100%"></iframe></div>
+
+<ul class="special-ul">
+	<li><a data-senna-off="true" href="/web/asturias/el-tiempo">El tiempo en Asturias</a></li>
+	<li><a href="/web/asturias/detalle/-/categories/575295?p_r_p_categoryId=575295&amp;_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=2533987&amp;articleId=2533987" target="_blank">Índice de riesgo de incendio forestal</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 portlet-column-content-only" id="column-5">
+                	<div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-5">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Contacta portada</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="70644" data-analytics-asset-title="Contacta portada" data-analytics-asset-type="web-content">
+	
+
+	<div class="card flex-md-row mb-4 box-shadow h-md-250">
+	<div class="card-body d-flex flex-column align-items-start caja-contenidos-imagen-texto">             
+    	<h2 class="mb-0">Contacta</h2>  
+        	<div class="outer"> 
+      			<div class="row">
+          				<div class="col-md-6">
+                      		<h3 class="title">Servicio de atención ciudadana</h3>
+				                      <div class="caja-icono-texto normal"> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="556408"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/556408/Preview-1000x0/phone_48.png?t=1557137189601" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/556408/Thumbnail-300x300/phone_48.png?t=1557137189601" /><img alt="Icono - Llámanos" data-fileentryid="556408" src="/documents/217090/555858/phone_48.png/7233bfc5-01a3-40db-9386-5eecfcabf6a7?t=1557137189601" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><span class="color-verde"><strong>Llámanos</strong></span>&nbsp;<span>al&nbsp;985.279.100 o al</span>&nbsp;<a href="/web/asturias/contacta-con-nosotros" target=""><u><span class="texto-mediano">012</span></u> <span class="small">(985.279.100 desde fuera de Asturias)<br />
+Puedes consultar el costo de la llamada pulsando sobre el enlace.</span></a></p> 					                              
+					                          </div> 
+				                      </div>
+				                      <div class="caja-icono-texto normal"> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="556414"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/556414/Preview-1000x0/mail_48.png?t=1559808163678" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/556414/Thumbnail-300x300/mail_48.png?t=1559808163678" /><img alt="Icono - Buzón del ciudadano" data-fileentryid="556414" src="/documents/217090/555861/mail_48.png/4ef7984a-2916-88ec-ee38-9b0d477dabb3?t=1559808163678" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><span class="color-verde"><strong>Escríbenos</strong></span> al <a href="mailto:SAC@asturias.org" target="_blank">buzón del ciudadano</a></p> 					                              
+					                          </div> 
+				                      </div>
+				                      <div class="caja-icono-texto normal"> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="556420"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/556420/Preview-1000x0/location_48.png?t=1559808164977" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/556420/Thumbnail-300x300/location_48.png?t=1559808164977" /><img alt="Icono - Ven a vernos" data-fileentryid="556420" src="/documents/217090/555861/location_48.png/20179003-6a81-a4d0-8887-d0bb0f0d8989?t=1559808164977" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><span class="color-verde"><strong>Ven a vernos</strong></span> a <a href="https://www.asturias.es/web/asturias/oficinas-de-registro" target="_blank">nuestras oficinas</a></p> 					                              
+					                          </div> 
+				                      </div>
+				                      <div class="caja-icono-texto "> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="571079"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/571079/Preview-1000x0/calendar_48.png?t=1607085929206" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/571079/Thumbnail-300x300/calendar_48.png?t=1607085929206" /><img alt="Icono - Solicita cita previa" data-fileentryid="571079" src="/documents/217090/555858/calendar_48.png/5b3fec6e-cd94-8898-f6cd-00205770aab3?t=1607085929206" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><span class="color-verde"><strong>Solicita</strong></span> <a href="https://ciges.asturias.es/" target="_blank">cita previa</a></p> 					                              
+					                          </div> 
+				                      </div>
+				                      <div class="caja-icono-texto "> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="571085"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/571085/Preview-1000x0/twitter_48.png?t=1607085971030" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/571085/Thumbnail-300x300/twitter_48.png?t=1607085971030" /><img alt="Icono - Conversa" data-fileentryid="571085" src="/documents/217090/555858/twitter_48.png/2f3b6b03-f252-dcc2-7e1b-0d4fc56a76c0?t=1607085971030" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><a href="https://twitter.com/012asturias" target="_blank">Conversa @12Asturias</a></p> 					                              
+					                          </div> 
+				                      </div>
+	                  	</div>
+          				<div class="col-md-6">
+                      		<h3 class="title">Direcciones y teléfonos</h3>
+				                      <div class="caja-icono-texto normal"> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="556426"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/556426/Preview-1000x0/zoom_48+%281%29.png?t=1559810799191" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/556426/Thumbnail-300x300/zoom_48+%281%29.png?t=1559810799191" /><img alt="Icono - Buscador de personas" data-fileentryid="556426" src="/documents/217090/555861/zoom_48+%281%29.png/07ee3f31-ab2c-bdaa-fe34-856c3cfed483?t=1559810799191" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><a href="https://www.asturias.es/web/asturias/direcciones-y-telefonos" target="_blank">Buscador de personas</a></p>
+
+<p><a href="https://www.asturias.es/detalle/-/categories/610269?p_r_p_categoryId=610269&amp;_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=852765&amp;articleId=852765&amp;title=Webs%20P%C3%BAblicas%20de%20la%20Administraci%C3%B3n%20del%20Principado%20de%20Asturias&amp;redirect=https%3A%2F%2Fwww.asturias.es%2Fgeneral%2F-%2Fcategories%2F572474%3Fp_r_p_categoryId%3D572474" target="_blank">Portales corporativos del Principado de Asturias</a></p> 					                              
+					                          </div> 
+				                      </div>
+				                      <div class="caja-icono-texto emergencia"> 
+				                          		<div class="content-icon alto"> 				                               
+				                              		<picture data-fileentryid="556432"><source media="(max-width:48px)" srcset="/o/adaptive-media/image/556432/Preview-1000x0/112_48.png?t=1559808164446" /><source media="(max-width:48px) and (min-width:48px)" srcset="/o/adaptive-media/image/556432/Thumbnail-300x300/112_48.png?t=1559808164446" /><img alt="Icono - 112" data-fileentryid="556432" src="/documents/217090/555861/112_48.png/f33cf809-7d6b-8399-964d-2b9b790bfa1c?t=1559808164446" /></picture>
+				                             	</div> 
+					                          <div class="content-summary"> 
+					                              <p><span class="color-verde"><strong>Emergencias</strong></span><br />
+<a href="http://www.112asturias.es/" target="_blank">112 Asturias</a></p> 					                              
+					                          </div> 
+				                      </div>
+				                      <div class="caja-icono-texto normal"> 
+					                          <div class="content-summary"> 
+					                               					                              
+					                          </div> 
+				                      </div>
+	                  	</div>
+            	</div>
+        	</div> 	      
+	</div>
+</div>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+                </div>                
+            </div>
+		</div>
+		<div class="col-md-4 portlet-column portlet-column-last" id="column-6">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-last" id="layout-column_column-6">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Gobierno del Principado</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="BLOQUE_GOBIERNO_PORTADA" data-analytics-asset-title="Gobierno del Principado" data-analytics-asset-type="web-content">
+	
+
+	<div class="card flex-md-row mb-4 box-shadow h-md-250">
+<div class="card-body d-flex flex-column align-items-start">
+<h2 class="mb-0">Gobierno del Principado</h2>
+
+<div class="outer">
+<div class="caja-imagen-texto">
+<div class="content-imagen">
+<div class="imagen"><picture data-fileentryid="556384"><source media="(max-width:131px)" srcset="/o/adaptive-media/image/556384/Preview-1000x0/banner_sinpresidente.gif?t=1559745549951" /><source media="(max-width:131px) and (min-width:131px)" srcset="/o/adaptive-media/image/556384/Thumbnail-300x300/banner_sinpresidente.gif?t=1559745549951" /><img alt="Imagen - Gobierno del Principado" data-fileentryid="556384" src="/documents/217090/555861/banner_sinpresidente.gif/f690dfe9-a230-c3ec-930b-78c666590b31?t=1559745549951&amp;imagePreview=1" /></picture></div>
+
+<div class="iconos">
+<ul>
+	<li><a href="https://www.facebook.com/gobiernodeasturias/" title="Facebook oficial del Gobierno del Principado de Asturias"><picture data-fileentryid="556378"><source media="(max-width:32px)" srcset="/o/adaptive-media/image/556378/Preview-1000x0/facebook_32.png?t=1557137189432" /><source media="(max-width:32px) and (min-width:32px)" srcset="/o/adaptive-media/image/556378/Thumbnail-300x300/facebook_32.png?t=1557137189432" /><img alt="Icono - Facebook" data-fileentryid="556378" src="/documents/217090/555858/facebook_32.png/e2fb13dc-9496-7f6f-0293-662d8e34392b?t=1557137189432&amp;imagePreview=1" /></picture></a></li>
+	<li><a href="https://twitter.com/GobAsturias" title="Twitter oficial del Gobierno del Principado de Asturias"><picture data-fileentryid="556372"><source media="(max-width:32px)" srcset="/o/adaptive-media/image/556372/Preview-1000x0/twitter_32.png?t=1557137189641" /><source media="(max-width:32px) and (min-width:32px)" srcset="/o/adaptive-media/image/556372/Thumbnail-300x300/twitter_32.png?t=1557137189641" /><img alt="Icono - Twitter" data-fileentryid="556372" src="/documents/217090/555858/twitter_32.png/924bcf14-a8f6-5c90-7354-07f3dc3d7c52?t=1557137189641&amp;imagePreview=1" /></picture></a></li>
+	<li><a href="https://www.youtube.com/channel/UCyssDZ4splBnG9_jD-FOpFA" title="Canal de Youtube oficial del Gobierno del Principado de Asturias"><picture data-fileentryid="556366"><source media="(max-width:32px)" srcset="/o/adaptive-media/image/556366/Preview-1000x0/youtube_32.png?t=1557137189991" /><source media="(max-width:32px) and (min-width:32px)" srcset="/o/adaptive-media/image/556366/Thumbnail-300x300/youtube_32.png?t=1557137189991" /><img alt="Icono - Youtube" data-fileentryid="556366" src="/documents/217090/555858/youtube_32.png/dd839b72-2c4a-5d78-1a2a-ea3374594c92?t=1557137189991&amp;imagePreview=1" /></picture></a></li>
+</ul>
+</div>
+</div>
+
+<div class="content-listado">
+<ul>
+	<li><a href="/web/asturias/gobierno">Consejo de Gobierno y Consejerías</a></li>
+	<li><a href="/web/asturias/agenda">Agenda</a></li>
+	<li><a href="https://transparencia.asturias.es" target="_blank">Portal de Transparencia, Participación y Open Data</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Sede electrónica Portada - Primer módulo</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="453225" data-analytics-asset-title="Sede electrónica Portada - Primer módulo" data-analytics-asset-type="web-content">
+	
+
+	<div class="caja-sede-electronica">
+	<div class="card flex-md-row mb-4 box-shadow h-md-250">
+		<div class="card-body d-flex flex-column align-items-start"> 
+			<h2 class="mb-0 sede-electronica">
+				<span class="titulo-servicio-24"><img src="/o/webasturias-theme/images/logos/ico_sede_grande.png" alt="Icono - Sede electrónica"></span>
+				Sede electr&oacute;nica			</h2>
+			<div class="outer"> 
+				<div class="contenido-sede-electronica">
+					<div class="acceso-sede">
+						<a href="https://sede.asturias.es" title="Accede a la sede">Accede a la sede</a>
+					</div>
+							<div class="area-personal">
+								<h3 class="icono-empty">BOPA Boletín Oficial del Principado de Asturias</h3>
+								<ul>
+										<li class="icono-empty"><a href="https://sede.asturias.es/web/sede/ultimos-boletines?p_r_p_summaryLastBopa=true">Últimos boletines</a></li>
+										<li class="icono-search"><a href="https://sede.asturias.es/web/sede/servicios-del-bopa">Servicios del BOPA</a></li>
+								</ul>
+							</div>
+							<div class="area-personal">
+								<h3 class="icono-user">Tu área personal</h3>
+								<ul>
+										<li class="icono-empty"><a href="https://sede.asturias.es/web/sede/consultar-mis-tramites">Tus trámites</a></li>
+								</ul>
+							</div>
+							<div class="area-personal">
+								<h3 class="icono-empty">Empleo público</h3>
+								<ul>
+										<li class="icono-search"><a href="https://sede.asturias.es/web/sede/buscar-oposiciones">Buscar oposiciones</a></li>
+								</ul>
+							</div>
+							<div class="area-personal">
+								<h3 class="icono-empty">Utilidades</h3>
+								<ul>
+										<li class="icono-empty"><a href="https://www36.asturias.es/verificacionDE">Verificar documentos electrónicos</a></li>
+								</ul>
+							</div>
+							<div class="area-personal">
+								<h3 class="">Empresas</h3>
+								<ul>
+										<li class="icono-empty"><a href="https://sede.asturias.es/web/sede/perfil-del-contratante">Perfil de contratante</a></li>
+										<li class=""><a href="https://sede.asturias.es/web/sede/factura-electrónica-y-servicios-contables">Factura electrónica y servicios contables</a></li>
+								</ul>
+							</div>
+				</div>
+			</div> <!-- outer --> 
+		</div><!-- card-body --> 
+	</div><!-- card --> 
+</div>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Sede electrónica Portada - Segundo módulo</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="453208" data-analytics-asset-title="Sede electrónica Portada - Segundo módulo" data-analytics-asset-type="web-content">
+	
+
+	<div class="bloque-servicios-ayudas">
+	<h3>Tramitar es fácil</h3>
+		<div class="panel">
+			<div class="panel-heading">
+					<ul class="nav nav-tabs">
+						
+						<li class="nav-item"><a class="nav-link active" href="#tab-servicios-1" data-toggle="tab">Ayudas y subvenciones</a></li>
+						
+						<li class="nav-item"><a class="nav-link" href="#tab-servicios-2" data-toggle="tab">Servicios y trámites</a></li>
+					</ul>
+			</div>
+				<div class="tab-content">
+							<div id="tab-servicios-1" class="tab-pane active">
+								<ul>
+										<li class=""><a href="https://sede.asturias.es/-/dboid-6269000008674275507573?redirect=%2Fbuscador%3F_pa_sede_buscadorgeneral_web_portlet_mini_BuscadorGeneralMiniPortlet_formDate%3D1610957230338%26p_r_p_searchText%3Demigrantes%2Bretornados%26p_auth%3D">Ayudas a personas emigrantes retornadas</a></li>
+										<li class=""><a href="https://sede.asturias.es/-/dboid-6269000005469490007573?redirect=%2Fbuscador%3F_pa_sede_buscadorgeneral_web_portlet_mini_BuscadorGeneralMiniPortlet_formDate%3D1610957230338%26p_r_p_searchText%3Demigrantes%2Bretornados%26p_auth%3D">Salario social básico (solicitud)</a></li>
+								</ul>
+							</div>
+							<div id="tab-servicios-2" class="tab-pane">
+								<ul>
+										<li class=""><a href="https://sede.asturias.es/-/dboid-6269000015477757007573?redirect=%2Fbuscador%3F_pa_sede_buscadorgeneral_web_portlet_mini_BuscadorGeneralMiniPortlet_formDate%3D1610958931296%26p_r_p_searchText%3DAUTO0132T01%26p_auth%3D">Cancelación de datos en el buscador del BOPA</a></li>
+										<li class=""><a href="https://sede.asturias.es/-/200950860-solicitud-de-mibopa?redirect=%2Fbuscador%3F_pa_sede_buscadorgeneral_web_portlet_mini_BuscadorGeneralMiniPortlet_formDate%3D1610957261540%26p_r_p_searchText%3DmiBOPA%26p_auth%3D">miBOPA (suscripción)</a></li>
+								</ul>
+							</div>
+						
+				</div>
+					
+				
+		</div>
+	<div class="show-more">
+		<a href="https://sede.asturias.es/web/sede/todos-los-servicios-y-tramites">Todos los servicios y ayudas</a>
+	</div>
+</div>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_  portlet-static portlet-static-end portlet-decorate portlet-asset-publisher " id="p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4_" >
+		<span id="p_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Publicador de contenidos</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mb-4 subscribe-action">
+	
+
+	
+</div>
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	        
+<div class="generic-box noticias"> 
+	<h3>Actualidad</h3>
+	
+  	<div class="caja-redonda-content">
+    	<div class="content-summary"> 
+	        	<ul>
+						             	
+						             	
+                     	
+				        
+				      	             
+			                    
+						<li>
+										
+							<a title="Leer El Principado promocionará en Asturforesta el desarrollo sostenible de los bosques..." 
+                     	       href="https://www.asturias.es/detalle-noticia/-/categories/572315?p_r_p_categoryId=572315&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=926433&articleId=926433&title=El%20Principado%20promocionar%C3%A1%20en%20Asturforesta%20el%20desarrollo%20sostenible%20de%20los%20bosques...&redirect=https%3A%2F%2Fwww.asturias.es%2Finicio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview">
+		                       El Principado promocionará en Asturforesta el desarrollo sostenible de los bosques... </a>		
+		                    <span class="fecha">12/03/2021	</span>		          
+	                	</li>
+						             	
+						             	
+                     	
+				        
+				      	             
+			                    
+						<li>
+										
+							<a title="Leer Cadasa y el Ayuntamiento de Villayón renuevan el convenio para preservar la..." 
+                     	       href="https://www.asturias.es/detalle-noticia/-/categories/572315?p_r_p_categoryId=572315&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=923900&articleId=923900&title=Cadasa%20y%20el%20Ayuntamiento%20de%20Villay%C3%B3n%20renuevan%20el%20convenio%20para%20preservar%20la...&redirect=https%3A%2F%2Fwww.asturias.es%2Finicio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview">
+		                       Cadasa y el Ayuntamiento de Villayón renuevan el convenio para preservar la... </a>		
+		                    <span class="fecha">11/03/2021	</span>		          
+	                	</li>
+						             	
+						             	
+                     	
+				        
+				      	             
+			                    
+						<li>
+										
+							<a title="Leer El Principado destina cerca de 283.000 euros en ayudas al proyecto Cárnicas del..." 
+                     	       href="https://www.asturias.es/detalle-noticia/-/categories/572315?p_r_p_categoryId=572315&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=924080&articleId=924080&title=El%20Principado%20destina%20cerca%20de%20283.000%20euros%20en%20ayudas%20al%20proyecto%20C%C3%A1rnicas%20del...&redirect=https%3A%2F%2Fwww.asturias.es%2Finicio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview">
+		                       El Principado destina cerca de 283.000 euros en ayudas al proyecto Cárnicas del... </a>		
+		                    <span class="fecha">11/03/2021	</span>		          
+	                	</li>
+						             	
+						             	
+                     	
+				        
+				      	             
+			                    
+						<li>
+										
+							<a title="Leer El Principado invierte 507.000 euros en la reparación del puente de Quinzanas, en..." 
+                     	       href="https://www.asturias.es/detalle-noticia/-/categories/572315?p_r_p_categoryId=572315&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=924255&articleId=924255&title=El%20Principado%20invierte%20507.000%20euros%20en%20la%20reparaci%C3%B3n%20del%20puente%20de%20Quinzanas%2C%20en...&redirect=https%3A%2F%2Fwww.asturias.es%2Finicio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview">
+		                       El Principado invierte 507.000 euros en la reparación del puente de Quinzanas, en... </a>		
+		                    <span class="fecha">11/03/2021	</span>		          
+	                	</li>
+						             	
+						             	
+                     	
+				        
+				      	             
+			                    
+						<li>
+										
+							<a title="Leer El Principado participa en un proyecto europeo para facilitar la adaptación del..." 
+                     	       href="https://www.asturias.es/detalle-noticia/-/categories/572315?p_r_p_categoryId=572315&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=923155&articleId=923155&title=El%20Principado%20participa%20en%20un%20proyecto%20europeo%20para%20facilitar%20la%20adaptaci%C3%B3n%20del...&redirect=https%3A%2F%2Fwww.asturias.es%2Finicio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview">
+		                       El Principado participa en un proyecto europeo para facilitar la adaptación del... </a>		
+		                    <span class="fecha">11/03/2021	</span>		          
+	                	</li>
+	        	</ul>
+      	</div> 
+  	</div> 
+  	
+                          
+  	<div class="link-more">
+  		<a class="more-information" title="M&aacute;s noticias"
+  			href="https://www.asturias.es/noticias/-/categories/572315?p_r_p_categoryId=572315">
+Ver toda la actualidad  		</a>
+  	</div>
+ </div><!-- caja-redonda -->
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+</div>
+		</div>
+	</div>
+	<div class="portlet-layout row">
+		<div class="col-md-12 portlet-column portlet-column-only" id="column-7">
+			<div class="portlet-dropzone empty portlet-column-content portlet-column-content-only" id="layout-column_column-7"></div>
+		</div>
+	</div>
+</div>
+
+
+<form action="#" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><input hidden type="submit"/></form>			    </div><!-- #contenido -->
+			</div><!-- container -->
+
+		    <footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end portlet-barebone portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02_" >
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Pie de página</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="visible-interaction">
+	
+		
+
+		
+
+		
+
+		
+	
+</div>				</div>
+			</div>
+		</div>
+
+		
+		
+			
+			<div class=" portlet-content-container" >
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix journal-content-article" data-analytics-asset-id="PIE_DE_PAGINA" data-analytics-asset-title="Pie de página" data-analytics-asset-type="web-content">
+	
+
+	<div class="footer-row col-md-12"><picture data-fileentryid="556396"><source media="(max-width:140px)" srcset="/o/adaptive-media/image/556396/Preview-1000x0/logo_feder.jpg?t=1557137051226" /><source media="(max-width:140px) and (min-width:140px)" srcset="/o/adaptive-media/image/556396/Thumbnail-300x300/logo_feder.jpg?t=1557137051226" /><img alt="Proyecto cofinanciado por la U.E. F.E.D.E.R." src="/documents/217090/555864/logo_feder.jpg/d2cd7f54-39c2-4e4e-64ed-d0b1ed8f0327?t=1557137051226&amp;imagePreview=1" data-fileentryid="556396" /></picture> <picture data-fileentryid="556390"><source media="(max-width:154px)" srcset="/o/adaptive-media/image/556390/Preview-1000x0/Good-Practice2009.jpg?t=1557137104146" /><source media="(max-width:154px) and (min-width:154px)" srcset="/o/adaptive-media/image/556390/Thumbnail-300x300/Good-Practice2009.jpg?t=1557137104146" /><img alt="European eGovernment Awards. Good Practice label 2009" src="/documents/217090/555864/Good-Practice2009.jpg/0db3852a-d54c-eaf0-bba5-6cc25c7897ed?t=1557137104146&amp;imagePreview=1" data-fileentryid="556390" /></picture></div>
+
+<div class="footer-row col-md-12">© Copyright 2019. Gobierno del Principado de Asturias</div>
+
+<div class="footer-row col-md-12">
+<ul>
+	<li><a accesskey="7" href="/web/asturias/aviso-legal-y-pol%C3%ADtica-de-privacidad" target="">Aviso legal y política de privacidad</a></li>
+	<li><a accesskey="8" href="/web/asturias/contacta-con-nosotros" target="">Contactar</a></li>
+	<li><a accesskey="9" href="/web/asturias/licencias-y-t%C3%A9rminos-de-uso" target="">Licencias y términos de uso</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+
+		
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+		    </footer>
+
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	
+		
+
+			
+
+			
+		
+	
+
+	Liferay.BrowserSelectors.run();
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2f';
+		Liferay.currentURLEncoded = '\x252F';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vn53JdJFW6NJ\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-6\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'VOTE',
+				'Ratings',
+				{
+					className: event.className,
+					classPK: event.classPK,
+					ratingType: event.ratingType,
+					score: event.score
+				}
+			);
+		}
+	}
+
+	var onDestroyPortlet = function() {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	}
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function() {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	}
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'posted',
+				'Comment',
+				{
+					className: event.className,
+					classPK: event.classPK,
+					commentId: event.commentId,
+					text: event.text
+				}
+			);
+		}
+	}
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function(data) {
+		if (window.Analytics) {
+			Analytics.send(
+				'shared',
+				'SocialBookmarks',
+				{
+					className: data.className,
+					classPK: data.classPK,
+					type: data.type,
+					url: data.url
+				}
+			);
+		}
+	}
+
+	var onDestroyPortlet = function() {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	}
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var pathnameRegexp = /\/documents\/(\d+)\/(\d+)\/(.+?)\/([^&]+)/;
+
+	function handleDownloadClick(event) {
+		if (event.target.nodeName.toLowerCase() === 'a') {
+			if (window.Analytics) {
+				var anchor = event.target;
+				var match = pathnameRegexp.exec(anchor.pathname);
+
+				if (match) {
+					var getParameterValue = function(parameterName) {
+						var result = null;
+						var tmp = [];
+
+						anchor
+							.search
+							.substr(1)
+							.split("&")
+							.forEach(
+								function(item) {
+									tmp = item.split("=");
+									if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+								}
+							);
+						return result;
+					}
+
+					var groupId = match[1];
+					var fileEntryUUID = match[4];
+
+					fetch(
+						'https://www.asturias.es/o/document_library/analytics/resolve_file_entry?groupId=' + encodeURIComponent(groupId) + '&uuid=' + encodeURIComponent(fileEntryUUID),
+						{
+							credentials: 'include',
+							method: 'GET'
+						}
+					).then(function(response) {
+						return response.json();
+					}).then(function(response) {
+						Analytics.send(
+							'documentDownloaded',
+							'Document',
+							{
+								groupId: groupId,
+								fileEntryId: response.fileEntryId,
+								preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+								title: decodeURIComponent(match[3].replace(/\+/ig, ' ')),
+								version: getParameterValue('version')
+							}
+						);
+					}).catch(function() {
+						return;
+					});
+				}
+			}
+		}
+	}
+
+	document.body.addEventListener('click', handleDownloadClick);
+
+	var onDestroyPortlet = function() {
+		document.body.removeEventListener('click', handleDownloadClick);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	}
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+	if (Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				attributeName: 'data-href',
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini_',
+			portletId: 'pa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dpa_webasturias_search_web_portlet_mini_SearchWebasturiasWebPortletMini\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"p_r_p_categoryId":["556463"]}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 1,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_listaEnlaces02\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"p_r_p_categoryId":["556463"]}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_imagenCabecera02\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"p_r_p_categoryId":["556463"]}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 1,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_D8u6WHUzlcqA\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-6\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_tXSVjcHDgX9z\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_qyJTOz4Uep43\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_FxWZ226k8Ki7\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 3,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-6\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet_',
+			portletId: 'com_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_site_navigation_language_web_portlet_SiteNavigationLanguagePortlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"p_r_p_categoryId":["556463"]}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 2,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_footerContent02\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x26settingsScope\x3dportletInstance',
+			refreshURLData: {"p_r_p_categoryId":["556463"]}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 3,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 2,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d572298\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wtks522bwc7j\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-6\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F',
+			refreshURLData: {}
+		}
+	);
+Liferay.Loader.require('clay-tooltip/src/ClayTooltip', function(clayTooltipSrcClayTooltip) {
+(function(){
+var ClayTooltip = clayTooltipSrcClayTooltip;
+(function() {var $ = AUI.$;var _ = AUI._;
+	if (!Liferay.Data.LFR_PORTAL_CLAY_TOOLTIP) {
+		Liferay.Data.LFR_PORTAL_CLAY_TOOLTIP = ClayTooltip.default.init(
+			{
+				selectors: [
+					'.management-bar [data-title]:not(.lfr-portal-tooltip)',
+					'.management-bar [title]:not(.lfr-portal-tooltip)'
+				]
+			}
+		);
+	}
+})();})();
+},
+function(error) {
+console.error(error);
+});AUI().use('aui-tooltip', 'liferay-menu', 'liferay-notice', 'aui-base', 'liferay-session', 'liferay-poller', 'querystring-parse', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	if (!Liferay.Data.LFR_PORTAL_TOOLTIP) {
+		var triggerShowEvent = ['mouseenter', 'MSPointerDown', 'touchstart'];
+
+		if (A.UA.ios) {
+			triggerShowEvent = ['touchstart'];
+		}
+
+		Liferay.Data.LFR_PORTAL_TOOLTIP = new A.TooltipDelegate(
+			{
+				constrain: true,
+				opacity: 1,
+				trigger: '.lfr-portal-tooltip',
+				triggerHideEvent: ['click', 'mouseleave', 'MSPointerUp', 'touchend'],
+				triggerShowEvent: triggerShowEvent,
+				visible: false,
+				zIndex: Liferay.zIndex.TOOLTIP
+			}
+		);
+
+		Liferay.on(
+			'beforeNavigate',
+			function(event) {
+				Liferay.Data.LFR_PORTAL_TOOLTIP.getTooltip().hide();
+			}
+		);
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {var $ = AUI.$;var _ = AUI._;
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					redirectOnExpire: false,
+					redirectUrl: 'https\x3a\x2f\x2fwww\x2easturias\x2ees\x2fweb\x2fasturias\x2finicio',
+					sessionLength: 890,
+					warningLength: 0
+				}
+			);
+
+			
+		})();(function() {var $ = AUI.$;var _ = AUI._;
+	var queryString = window.location.search.substring(1);
+
+	var queryParamObj = new A.QueryString.parse(queryString);
+
+	var assetEntryId = queryParamObj['_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_ixQcC58gQROU_assetEntryId'];
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var queryString = window.location.search.substring(1);
+
+	var queryParamObj = new A.QueryString.parse(queryString);
+
+	var assetEntryId = queryParamObj['_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_IAF5o4Hn75Pr_assetEntryId'];
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var queryString = window.location.search.substring(1);
+
+	var queryParamObj = new A.QueryString.parse(queryString);
+
+	var assetEntryId = queryParamObj['_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_3h3ys40C2iV3_assetEntryId'];
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var queryString = window.location.search.substring(1);
+
+	var queryParamObj = new A.QueryString.parse(queryString);
+
+	var assetEntryId = queryParamObj['_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_nZPib2vYnWt4_assetEntryId'];
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var queryString = window.location.search.substring(1);
+
+	var queryParamObj = new A.QueryString.parse(queryString);
+
+	var assetEntryId = queryParamObj['_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_RmCPK65f4pXB_assetEntryId'];
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var queryString = window.location.search.substring(1);
+
+	var queryParamObj = new A.QueryString.parse(queryString);
+
+	var assetEntryId = queryParamObj['_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_le7K2MNnQobo_assetEntryId'];
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.asturias.es/o/webasturias-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;b=7110&amp;t=1615231036000" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		AUI().use(
+			'aui-base',
+			function(A) {
+				var frameElement = window.frameElement;
+
+				if (frameElement && frameElement.getAttribute('id') === 'simulationDeviceIframe') {
+					A.getBody().addClass('lfr-has-simulation-panel');
+				}
+			}
+		);
+	// ]]>
+</script>
+		<script type="text/javascript">
+			function showPrivacyCookieLayer(domain)
+		    	{
+		    		var warn1Text = 'Informaci&oacute;n importante sobre cookies';
+		    		var warn2Text = 'Este portal web usa cookies propias y de terceros para mejorar sus servicios. Si contin&uacute;as navegando consideramos que aceptas su uso en los t&eacute;rminos indicados en la Pol&iacute;tica de privacidad.';
+		    		var agreeText = 'Entendido';
+		       		var layerHtml='<div id="portalPrivacyPolicyLayer" class="bloque-cookies"> \
+		        						<div class="envuelve-cookies"> \
+		        							<span class="cookies-title">'+ warn1Text + '</span> \
+		        							<span class="cookies-text">'+ warn2Text + '</span> \
+		        							<span class="closebutton">\
+		        								<a href="javascript:void(0)" title="'+ agreeText + '" id="portalPrivacyPolicyCloseButton" class="bt bt-next-2" rel="nofollow">'+ agreeText + '</a>\
+		        							</span> \
+		       					 		</div> \
+		       						</div>';
+		        	var bodytag = document.getElementsByTagName('body')[0];
+		      		var fragment = createHtml(layerHtml);
+		      		bodytag.appendChild(fragment);
+		   		 }
+		
+			jQuery( document ).ready(function() {
+				checkPrivacyPolicy();
+			});
+			
+			
+//			var privacyCookie = getPortalPrivacyCookie('webasturias_privacyPolicy');
+		</script>
+
+
+	</body>
+
+
+</html>
+
