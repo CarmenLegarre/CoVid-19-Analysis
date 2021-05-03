@@ -7,48 +7,50 @@
 % simulation random values will be asigned to these variables.
 
 %% Constants definition
-la = 1000; rho = rand(); be = rand(); bs = rand(); ba = rand();
-p2 = rand();  p1 = rand(); mu = rand(); sigma = rand(); gamma = rand();
-alpha = rand(); 
+La = 1000; rho = rand(); be = rand(); bs = rand(); ba = rand();
+p2 = rand();  p1 = rand(); p3 = rand();  mu = rand(); sigma = rand(); 
+gamma = rand(); alpha = rand(); delta = rand(); la = rand();
 
 %% Manual solution
+b1 = (la*(1-p2) + mu + gamma);
+b2 = (la*(1-p2)/b1 + (sigma + mu) * (1-p2) * p1 * la * bs)/(b1 * be + ...
+    (ba * p2 + (bs * (1-p2) * (1 - p1 * la))) * sigma) / (mu + delta + alpha);
+
 e = 100;
 
-s = 1/mu * (rho*e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)* ...
-    (1+(sigma+mu)*(1-p2)*p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + ... 
-    (sigma + mu)*(sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1)) - ...
-    (sigma + mu)*e/(1-p1)  + la);
+s = La/mu + sigma * (b2 * ((rho * delta)/(rho + mu) - mu - alpha ...
+    - delta) + ((rho * gamma)/(rho + mu) + la * (1 - p2))/b1 - ...
+    (sigma + mu)/sigma) * e / mu ;
 
-q = (sigma + mu)*p1*e/(sigma + mu + gamma*p2)/(1-p1);
+q = sigma * b2 * e;
 
-i = (1 + (sigma + mu)*(1 - p2)*p1/(sigma + mu + gamma*p2)/(1 - p1))* ...
-    e*sigma/(mu + alpha*(1 - p2) + gamma); 
+i = sigma * e / b1; 
 
-r = e/(mu + rho)*((gamma/(mu+alpha*(1-p2)+gamma)*(1+(sigma+mu)*(1-p2)* ...
-    p1/(mu+sigma+gamma*p2)/(1-p1))*sigma) + (sigma + mu)* ...
-    (sigma + gamma)*p1*p2/(mu+sigma+gamma*p2)/(1-p1));
+r = sigma * (gamma / b1 + delta * b2) * e/ (rho + mu);
 
 
 %% Numerical solution
+% x = S E Q I R
+
 system_a = zeros (5, 5);
 
 % first array
-system_a(1, 3) = (mu + sigma + gamma*p2)*(1-p1);
-system_a(1, 2) = -(sigma + mu)*p1;
+system_a(1, 2) = -sigma * b1 * b2 * (mu + alpha + delta);
+system_a(1, 3) =  b1 * (mu + alpha + delta);
 
-% second array 
+% second array
 system_a(2, 1) = -mu;
 system_a(2, 2) = -(sigma + mu);
-system_a(2, 3) = -(mu + sigma + gamma*p2);
+system_a(2, 3) = -(mu + alpha + delta);
+system_a(2, 4) = la * (1 - p2);
 system_a(2, 5) =  rho;
 
 % third array
 system_a(3, 2) = sigma;
-system_a(3, 3) = sigma*(1 - p2);
-system_a(3, 4) = -(mu + alpha*(1 - p2) + gamma);
+system_a(3, 4) = -(la * (1 - p2) + mu + gamma);
 
 % fourth array
-system_a(4, 3) = (sigma + gamma)*p2;
+system_a(4, 3) = delta;
 system_a(4, 4) = gamma;
 system_a(4, 5) = -(mu + rho);
 
@@ -56,7 +58,7 @@ system_a(4, 5) = -(mu + rho);
 system_a(5, 2) = 1;
 
 % system
-system_b = [0, -la, 0, 0, e]';
+system_b = [0, -La, 0, 0, e]';
 
 % solution
 solution = linsolve(system_a, system_b);
