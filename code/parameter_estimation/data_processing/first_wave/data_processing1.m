@@ -36,6 +36,13 @@ r = data(:, 3); dp = data(:, 4);
 % intervals where it is assumed that p1 and k are constant
 t_cb = [1 11;12 19;19 90;90 123]; 
 
+% display obtained delays
+display(tau1); display(tau2); display(tau3)
+
+% plot estimated number of people in quaratine
+plot(date_cb(ts:ts+length(Q)-1), Q)
+
+
 %% Create figures and fit
 % Q vs. r
 [fitresult_r, gof_r] = createFit1r(Q, r);
@@ -46,8 +53,10 @@ delta = coeff(1); % delta value
 error = confint(fitresult_r);
 error_delta = abs(diff(error(:, 1))); % error of delta value
 
+R = gof_r.rsquare;
+
 % display calculated delta, delta's error and linear regression residual
-display(delta); display(error_delta); display(gof_r.rsquare) 
+display(delta); display(error_delta); display(R) 
 
 % Q vs. dp
 [fitresult_dp, gof_dp] = createFit1dp(Q, dp);
@@ -57,8 +66,10 @@ alpha = coeff(1); % alpha value
 error = confint(fitresult_dp);
 error_alpha = abs(diff(error(:, 1))); % error of alpha value
 
+R = gof_dp.rsquare;
+
 % display calculated alpha, alpha's error and linear regression residual
-display(coeff); display(error); display(gof_dp.rsquare)
+display(alpha); display(error_alpha); display(R)
 
 
 %% Quarantine standard deviation
